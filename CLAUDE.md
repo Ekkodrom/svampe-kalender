@@ -51,10 +51,12 @@ scripts/valider-data.mjs        Tjekker svampe.json og billeder.json
 python -m http.server 8000
 ```
 
-## Privat – må IKKE udgives
-- Ejeren bruger siden selv og ønsker ikke at offentliggøre den (svampe er farlige). Den har et filter "Kun spiselige".
-- Repo: https://github.com/Ekkodrom/svampe-kalender er **privat**, og GitHub Pages er slået fra. Slå det ikke til igen uden ejerens udtrykkelige ønske.
-- Kør lokalt med `start.bat` (dobbeltklik) eller `python -m http.server 8000`. GitHub CLI: `E:\Program Files\GitHub CLI\gh.exe` (konto: Ekkodrom).
+## Udgivelse – kun med tydelig ansvarsfraskrivelse
+- Ejeren har tilladt udgivelse på GitHub Pages på betingelse af, at det er tydeligt, at siden IKKE er en sikker vejledning, og at ingen bør bruge den som vejledning.
+- Disse elementer må ALDRIG fjernes eller svækkes: velkomstvinduet ("Jeg forstår", gemt i localStorage `svampe-forstaaet`), advarselsbanneret over alle faner, den ekstra advarsel ved "Kun spiselige", ansvarsfraskrivelsen på "Om denne side", advarslen i detaljevisningen og i bunden af siden.
+- Repo: https://github.com/Ekkodrom/svampe-kalender (offentligt, branch `main`, rodmappe). Live: https://ekkodrom.github.io/svampe-kalender/
+- Push til `main` udgiver automatisk. GitHub CLI: `E:\Program Files\GitHub CLI\gh.exe` (konto: Ekkodrom).
+- Kør lokalt med `start.bat` (dobbeltklik) eller `python -m http.server 8000`.
 
 ## Kode
 - Datoaritmetik: brug `plusDage()` (kalenderdage), aldrig `getTime() + 24t` – det fejler ved sommertid.

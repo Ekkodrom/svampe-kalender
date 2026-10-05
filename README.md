@@ -11,7 +11,7 @@ Se hvilke svampe der kan findes i Danmark i dag – eller på en valgt dato/mån
 
 Data på denne side er afledt af data under CC BY-NC 4.0 og må kun bruges ikke-kommercielt.
 
-Privat projekt – udgives ikke.
+**Ikke en sikker vejledning.** Privat hobbyprojekt uden garanti for korrekthed – ingen bør bruge siden som vejledning til at plukke eller spise svampe.
 
 ## Kør lokalt
 Dobbeltklik på `start.bat`, eller:

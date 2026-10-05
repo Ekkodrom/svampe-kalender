@@ -22,8 +22,11 @@
     </div>
   </header>
 
+  <div class="wrap">
+    <p class="advarsel" role="note"><strong>Dette er IKKE en sikker vejledning – brug den ikke til at afgøre, om en svamp kan spises.</strong>Siden er et privat hobbyprojekt og kan indeholde fejl. Mange spiselige svampe har giftige – også dødeligt giftige – forvekslingsarter. Få altid dine svampe kontrolleret af en svampekontrollant, før du spiser dem.</p>
+  </div>
+
   <main class="wrap" id="side-kalender">
-    <p class="advarsel"><strong>Spis aldrig en svamp ud fra denne side.</strong>Mange spiselige svampe har giftige – også dødeligt giftige – forvekslingsarter. Få altid dine svampe kontrolleret af en svampekontrollant, før du spiser dem.</p>
 
     <section class="controls" aria-label="Vælg tidspunkt">
       <div class="mode" role="tablist">
@@ -61,6 +64,7 @@
       </div>
     </section>
 
+    <p class="advarsel" id="spise-advarsel" hidden><strong>"Kun spiselige" er ikke en liste over svampe, du trygt kan spise.</strong>Mærket "Spiselig" kommer fra Danmarks Svampeatlas og siger kun noget om arten – ikke om den svamp, du har fundet. Forveksling kan være dødelig.</p>
     <h2 id="overskrift" class="headline"></h2>
     <p id="optaelling" class="count"></p>
 
@@ -120,14 +124,27 @@
     <h2>Om denne side</h2>
     <p>Denne side er skabt til at hjælpe med at planlægge svampeåret – for dig, der vil se, hvor mange forskellige svampe du kan nå at finde på et kalenderår, og hvornår de forskellige arter har sæson.</p>
     <p>Siden bygger på fund fra <a href="https://svampe.databasen.org/" target="_blank" rel="noopener">Danmarks Svampeatlas</a>, hvor tusindvis af frivillige og fagfolk registrerer deres fund. En stor tak til alle, der bidrager.</p>
-    <p>Der kan være fejl på siden, og den er kun ment som en vejledning. Den kan aldrig bruges til at afgøre, om en svamp kan spises.</p>
+    <h3>Ansvarsfraskrivelse</h3>
+    <p><strong>Denne side er ikke en sikker vejledning, og ingen bør bruge den som vejledning til at plukke eller spise svampe.</strong> Den er et privat hobbyprojekt lavet til eget brug. Data er hentet automatisk og kan være forkerte, ufuldstændige eller forældede – også oplysningerne om spiselighed og giftighed.</p>
+    <p>Spis aldrig en svamp, du ikke selv er helt sikker på, og få altid dine svampe kontrolleret af en svampekontrollant. Ved mistanke om svampeforgiftning: ring til Giftlinjen på 82 12 12 12.</p>
     <p><a href="#" class="ghost-link">← Til kalenderen</a></p>
   </main>
 
   <footer class="wrap foot">
+    <p><strong>Ikke en sikker vejledning.</strong> Privat hobbyprojekt uden garanti for korrekthed. Brug aldrig siden til at afgøre, om en svamp kan spises.</p>
     <p><strong>Kilder:</strong> Artsliste, danske navne og spiselighed: <a href="https://svampe.databasen.org/" target="_blank" rel="noopener">Danmarks Svampeatlas</a>. Sæson og hyppighed er beregnet ud fra Svampeatlas' fund 2015–2025 via <a href="https://www.gbif.org/dataset/84d26682-f762-11e1-a439-00145eb45e9a" target="_blank" rel="noopener">GBIF</a> (Danish Mycological Society, fungal records database, <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.da" target="_blank" rel="noopener">CC BY-NC 4.0</a>). Perioder er vejledende.</p>
     <p><strong>Billeder:</strong> <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>, under frie licenser (CC0, Public domain, CC BY, CC BY-SA). Fotograf og licens står ved hvert billede.</p>
   </footer>
+
+  <dialog id="velkomst" aria-labelledby="v-titel">
+    <div class="d-body">
+      <h2 id="v-titel">Før du går videre</h2>
+      <p class="advarsel"><strong>Dette er IKKE en sikker vejledning.</strong>Siden er et privat hobbyprojekt og må ikke bruges til at afgøre, om en svamp kan spises. Oplysninger om spiselighed og giftighed kan være forkerte.</p>
+      <p>Mange spiselige svampe har giftige – også dødeligt giftige – forvekslingsarter. Få altid dine svampe kontrolleret af en svampekontrollant, før du spiser dem.</p>
+      <p>Ved mistanke om svampeforgiftning: ring til Giftlinjen på 82 12 12 12.</p>
+      <form method="dialog"><button class="ghost" id="forstaaet" value="ok">Jeg forstår</button></form>
+    </div>
+  </dialog>
 
   <dialog id="detalje" aria-labelledby="d-navn">
     <form method="dialog"><button class="luk" aria-label="Luk">✕</button></form>

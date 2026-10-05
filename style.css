@@ -234,4 +234,9 @@ dl.fakta dd { margin: 0; }
 }
 @media (prefers-color-scheme: dark) { .advarsel { background: #3d1e1d; color: #f6c9c5; } }
 .advarsel strong { display: block; margin-bottom: 2px; }
+.advarsel[hidden] { display: none; }
+#velkomst { max-width: 480px; }
+#velkomst h2 { margin: 4px 0 12px; }
+#velkomst p { line-height: 1.55; }
+#forstaaet { width: 100%; margin-top: 8px; font-size: 1.05rem; padding: 12px; }
 select#gruppe { width: 100%; }

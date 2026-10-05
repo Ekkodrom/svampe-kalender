@@ -252,6 +252,7 @@ function render() {
   document.querySelectorAll("#months button").forEach((b, i) => b.setAttribute("aria-pressed", i === state.maaned));
   document.querySelectorAll("#saeson-chips button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.saeson === state.saeson));
   $("#dato").value = tilInputDato(state.dato);
+  $("#spise-advarsel").hidden = !state.kunSpiselige;
   if (state.mode === "dato") renderDato();
   else renderMaaned();
 }
@@ -287,6 +288,7 @@ function visDetalje(id) {
       <dl class="fakta">${fakta.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
       ${spise}
       <p><a href="${esc(art.kilde)}" target="_blank" rel="noopener">Se ${esc(art.dansk)} i Danmarks Svampeatlas →</a></p>
+      <p class="d-credit">Ikke en sikker vejledning – brug aldrig siden til at afgøre, om en svamp kan spises.</p>
     </div>`;
   $("#detalje").showModal();
 }
@@ -344,6 +346,15 @@ const SIDER = {
   om: "Om denne side – Svampe Kalender",
 };
 
+// Velkomstvindue med ansvarsfraskrivelse – vises indtil brugeren har bekræftet
+function visVelkomst() {
+  if (hentValg("svampe-forstaaet")) return;
+  const d = $("#velkomst");
+  d.addEventListener("cancel", (e) => e.preventDefault()); // kan ikke lukkes med Esc uden at bekræfte
+  d.addEventListener("close", () => { if (d.returnValue === "ok") gemValg("svampe-forstaaet", true); });
+  d.showModal();
+}
+
 function visSide() {
   const hash = location.hash.slice(1);
   const aktiv = hash in SIDER ? hash : "kalender";
@@ -358,6 +369,7 @@ function visSide() {
 async function start() {
   opsaetKontroller();
   visSide();
+  visVelkomst();
   window.addEventListener("hashchange", () => { visSide(); window.scrollTo(0, 0); });
   try {
     const [f, b] = await Promise.all([fetch("data/svampe.json"), fetch("data/billeder.json")]);

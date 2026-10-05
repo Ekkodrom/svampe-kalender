@@ -4,7 +4,7 @@
 - [x] Datakilde: Danmarks Svampeatlas (artsliste) + GBIF (fund pr. måned)
 - [x] Spiselighed: vises med tydelig advarsel
 - [x] Artsomfang: kun de mest almindelige (min. 200 fund 2015–2025)
-- [x] Hosting: kun lokalt (privat GitHub-repo, Pages slået fra) – ejerens valg
+- [x] Hosting: GitHub Pages med tydelig ansvarsfraskrivelse (velkomstvindue, banner, advarsler)
 - [ ] Ejer: skriv/ret teksten på "Om denne side" (nu et udkast)
 
 ## Data
