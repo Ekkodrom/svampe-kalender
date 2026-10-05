@@ -50,6 +50,11 @@ scripts/valider-data.mjs        Tjekker svampe.json og billeder.json
 python -m http.server 8000
 ```
 
+## Udgivelse (GitHub Pages)
+- Repo: https://github.com/Ekkodrom/svampe-kalender (offentligt, branch `main`, rodmappe)
+- Live: https://ekkodrom.github.io/svampe-kalender/
+- Push til `main` udgiver automatisk. GitHub CLI: `E:Program FilesGitHub CLIgh.exe` (konto: Ekkodrom).
+
 ## Kode
 - Datoaritmetik: brug `plusDage()` (kalenderdage), aldrig `getTime() + 24t` – det fejler ved sommertid.
 - Al brugervendt tekst på dansk. Escape alt data med `esc()` før det sættes i HTML.
