@@ -11,7 +11,10 @@ Se hvilke svampe der kan findes i Danmark i dag – eller på en valgt dato/mån
 
 Data på denne side er afledt af data under CC BY-NC 4.0 og må kun bruges ikke-kommercielt.
 
+Privat projekt – udgives ikke.
+
 ## Kør lokalt
+Dobbeltklik på `start.bat`, eller:
 ```
 python -m http.server 8000
 ```

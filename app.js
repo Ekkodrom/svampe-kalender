@@ -31,6 +31,7 @@ const state = {
   gruppe: "",
   soeg: "",
   niveauer: hentNiveauer(),
+  kunSpiselige: hentValg("svampe-kun-spiselige"),
   sortering: "system",
 };
 
@@ -45,6 +46,14 @@ function hentNiveauer() {
     if (gemt && typeof gemt === "object") return { ...standard, ...gemt };
   } catch {}
   return standard;
+}
+
+function hentValg(noegle) {
+  try { return localStorage.getItem(noegle) === "1"; } catch { return false; }
+}
+
+function gemValg(noegle, vaerdi) {
+  try { localStorage.setItem(noegle, vaerdi ? "1" : "0"); } catch {}
 }
 
 function gemNiveauer() {
@@ -108,6 +117,7 @@ function analyserDato(art, dato) {
 function passerFilter(art) {
   if (state.saeson !== "alle" && art.saeson !== state.saeson) return false;
   if (state.gruppe && art.gruppe !== state.gruppe) return false;
+  if (state.kunSpiselige && art.spiselighed?.klasse !== "spiselig") return false;
   if (state.soeg) {
     const q = state.soeg.toLowerCase();
     if (!art.dansk.toLowerCase().includes(q) && !art.latin.toLowerCase().includes(q)) return false;
@@ -307,6 +317,12 @@ function opsaetKontroller() {
       gemNiveauer();
       render();
     });
+  });
+  $("#kun-spiselige").checked = state.kunSpiselige;
+  $("#kun-spiselige").addEventListener("change", (e) => {
+    state.kunSpiselige = e.target.checked;
+    gemValg("svampe-kun-spiselige", state.kunSpiselige);
+    render();
   });
   $("#sortering").addEventListener("change", (e) => { state.sortering = e.target.value; render(); });
   $("#sektioner").addEventListener("click", (e) => {

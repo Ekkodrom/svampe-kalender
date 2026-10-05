@@ -4,7 +4,7 @@
 - [x] Datakilde: Danmarks Svampeatlas (artsliste) + GBIF (fund pr. måned)
 - [x] Spiselighed: vises med tydelig advarsel
 - [x] Artsomfang: kun de mest almindelige (min. 200 fund 2015–2025)
-- [x] Hosting: eget GitHub-repo (svampe-kalender) på GitHub Pages
+- [x] Hosting: kun lokalt (privat GitHub-repo, Pages slået fra) – ejerens valg
 - [ ] Ejer: skriv/ret teksten på "Om denne side" (nu et udkast)
 
 ## Data
@@ -23,5 +23,6 @@
 - [x] Dato-/månedsvisning, sæson-sektioner, filtre, søgning, detaljevisning
 - [x] Faner: Kalender, Svampejagt & Big Year, Om denne side
 - [x] Advarsel om spiselighed
+- [x] Filter "Kun spiselige" (huskes i browseren)
 - [ ] Big Year-tjekliste (gem lokalt)
 - [ ] PWA (offline i skoven uden dækning)

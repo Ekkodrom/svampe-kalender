@@ -8,6 +8,7 @@ Søsterprojekt til `../fugle kalender`. Webside der hjælper danske svampeintere
 - Samme spilleregler og opbygning som fuglesiden (dato/måned, "Sæsonen slutter", filtre for almindelige/fåtallige/sjældne – sjældne fra som standard).
 
 ## Sikkerhed (vigtigst)
+- Selvom siden er privat, skal advarslerne blive.
 - Siden må **aldrig** kunne opfattes som en guide til at spise svampe.
 - Advarslen øverst på kalenderen og i detaljevisningen må ikke fjernes.
 - Spiselighed vises (ejerens valg) men altid med advarsel og kildeangivelse (Svampeatlas).
@@ -50,10 +51,10 @@ scripts/valider-data.mjs        Tjekker svampe.json og billeder.json
 python -m http.server 8000
 ```
 
-## Udgivelse (GitHub Pages)
-- Repo: https://github.com/Ekkodrom/svampe-kalender (offentligt, branch `main`, rodmappe)
-- Live: https://ekkodrom.github.io/svampe-kalender/
-- Push til `main` udgiver automatisk. GitHub CLI: `E:\Program Files\GitHub CLI\gh.exe` (konto: Ekkodrom).
+## Privat – må IKKE udgives
+- Ejeren bruger siden selv og ønsker ikke at offentliggøre den (svampe er farlige). Den har et filter "Kun spiselige".
+- Repo: https://github.com/Ekkodrom/svampe-kalender er **privat**, og GitHub Pages er slået fra. Slå det ikke til igen uden ejerens udtrykkelige ønske.
+- Kør lokalt med `start.bat` (dobbeltklik) eller `python -m http.server 8000`. GitHub CLI: `E:\Program Files\GitHub CLI\gh.exe` (konto: Ekkodrom).
 
 ## Kode
 - Datoaritmetik: brug `plusDage()` (kalenderdage), aldrig `getTime() + 24t` – det fejler ved sommertid.
