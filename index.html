@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Se hvilke svampe du kan finde i Danmark i dag – og planlæg din svampetur og dit Big Year.">
+  <meta name="theme-color" content="#6b4226">
+  <title>Svampe Kalender</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍄</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>Svampe Kalender</h1>
+      <p class="tagline">Danske svampe – hvad kan du finde, og hvornår?</p>
+      <nav class="faner" aria-label="Sider">
+        <a href="#" id="fane-kalender">Kalender</a>
+        <a href="#guide" id="fane-guide">Svampejagt &amp; Big Year</a>
+        <a href="#om" id="fane-om">Om denne side</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap" id="side-kalender">
+    <p class="advarsel"><strong>Spis aldrig en svamp ud fra denne side.</strong>Mange spiselige svampe har giftige – også dødeligt giftige – forvekslingsarter. Få altid dine svampe kontrolleret af en svampekontrollant, før du spiser dem.</p>
+
+    <section class="controls" aria-label="Vælg tidspunkt">
+      <div class="mode" role="tablist">
+        <button role="tab" id="mode-dato" aria-selected="true">Dato</button>
+        <button role="tab" id="mode-maaned" aria-selected="false">Måned</button>
+      </div>
+
+      <div id="panel-dato" class="panel">
+        <label for="dato" class="sr-only">Dato</label>
+        <input type="date" id="dato">
+        <button id="idag" class="ghost">I dag</button>
+      </div>
+
+      <div id="panel-maaned" class="panel" hidden>
+        <div class="months" id="months"></div>
+      </div>
+
+      <div class="filters">
+        <input type="search" id="soeg" placeholder="Søg på dansk eller latinsk navn" autocomplete="off">
+        <div class="chips" id="saeson-chips"></div>
+        <select id="gruppe" aria-label="Svampegruppe"><option value="">Alle svampegrupper</option></select>
+        <div class="row">
+          <fieldset class="niveauer">
+            <legend class="sr-only">Vis arter</legend>
+            <label class="check"><input type="checkbox" data-niveau="almindelig"> Almindelige</label>
+            <label class="check"><input type="checkbox" data-niveau="fåtallig"> Fåtallige</label>
+            <label class="check"><input type="checkbox" data-niveau="sjælden"> Sjældne</label>
+          </fieldset>
+          <select id="sortering" aria-label="Sortering">
+            <option value="system">Systematisk</option>
+            <option value="alfa">Alfabetisk</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <h2 id="overskrift" class="headline"></h2>
+    <p id="optaelling" class="count"></p>
+
+    <div id="sektioner"></div>
+  </main>
+
+  <main class="wrap om" id="side-guide" hidden>
+    <h2>Hvad er svampejagt?</h2>
+    <p>Svampejagt er at gå på opdagelse efter svampe i naturen – i skoven, på marken, i klitterne eller i parken. Svampe findes hele året, men de fleste sætter frugtlegemer om efteråret, når det er fugtigt og lunt. Nogle arter kommer allerede i foråret, andre først med frosten.</p>
+    <p>Man behøver ikke meget for at komme i gang:</p>
+    <ul>
+      <li><strong>En kurv</strong> – ikke en plastikpose, hvor svampene sveder og bliver dårlige.</li>
+      <li><strong>En kniv og en lille børste</strong> til at rense svampene.</li>
+      <li><strong>En lup</strong> til de små detaljer: lameller, porer, hår og skæl.</li>
+      <li><strong>Et kamera</strong> er godt til at dokumentere fund og bestemme svære arter bagefter. Tag gerne billeder fra flere sider – også af undersiden og foden.</li>
+      <li><strong>En svampebog eller app</strong>, fx Danmarks Svampeatlas' app, der kan foreslå arter ud fra et billede. Forslagene kan være forkerte, så brug dem som vejledning.</li>
+    </ul>
+    <p>Læs mere og registrér dine fund i <a href="https://svampe.databasen.org/" target="_blank" rel="noopener">Danmarks Svampeatlas</a>. Så bliver dine fund til data – også dem, du ser på denne side.</p>
+
+    <h3>Sikkerhed</h3>
+    <ul>
+      <li><strong>Spis aldrig en svamp, du ikke er 100 % sikker på.</strong> Flere af Danmarks dødeligt giftige svampe ligner spiselige arter.</li>
+      <li>Få dine svampe kontrolleret af en svampekontrollant, før du spiser dem.</li>
+      <li>Ved mistanke om svampeforgiftning: ring til Giftlinjen på 82 12 12 12.</li>
+    </ul>
+
+    <h3>Tag hensyn til naturen</h3>
+    <ul>
+      <li>Pluk kun det, du skal bruge – og lad de små og de gamle svampe stå.</li>
+      <li>Træd varsomt, og lad være med at rode op i skovbunden.</li>
+      <li>Respektér skilte, reservater og adgangsregler. I offentlige skove må du plukke svampe til eget forbrug; i private skove kun dem, du kan nå fra veje og stier.</li>
+    </ul>
+
+    <h2>Hvad er et Big Year?</h2>
+    <p>Et Big Year er en personlig udfordring: Hvor mange forskellige svampearter kan du finde i løbet af ét kalenderår – fra 1. januar til 31. december?</p>
+    <p>Man vælger selv sit område. Det kan være hele Danmark, en kommune eller ens egen lokale skov.</p>
+
+    <h3>De almindelige spilleregler</h3>
+    <ul>
+      <li>Svampen skal være fundet vildtvoksende i naturen.</li>
+      <li>Arten skal være sikkert bestemt.</li>
+      <li>Det er dit eget år og din egen liste. Ærlighed er det eneste, der holder spillet sjovt.</li>
+    </ul>
+
+    <h3>Sådan bruger du kalenderen til dit Big Year</h3>
+    <ul>
+      <li><strong>Start med vintersvampene.</strong> Arter som Fløjlsfod og Judasøre kan findes i de kolde måneder.</li>
+      <li><strong>Glem ikke foråret.</strong> Morkler og andre forårssvampe har en kort sæson i april–maj.</li>
+      <li><strong>Hold øje med "Sæsonen slutter".</strong> Den viser arter, hvis sæson snart er forbi.</li>
+      <li><strong>Efteråret er højsæson.</strong> I september–oktober kan du finde flest arter – gå ud efter regn.</li>
+      <li><strong>Slå "Sjældne" til</strong>, når du har fundet de almindelige arter og vil jagte de svære.</li>
+    </ul>
+    <p><a href="#" class="ghost-link">← Til kalenderen</a></p>
+  </main>
+
+  <main class="wrap om" id="side-om" hidden>
+    <h2>Om denne side</h2>
+    <p>Denne side er skabt til at hjælpe med at planlægge svampeåret – for dig, der vil se, hvor mange forskellige svampe du kan nå at finde på et kalenderår, og hvornår de forskellige arter har sæson.</p>
+    <p>Siden bygger på fund fra <a href="https://svampe.databasen.org/" target="_blank" rel="noopener">Danmarks Svampeatlas</a>, hvor tusindvis af frivillige og fagfolk registrerer deres fund. En stor tak til alle, der bidrager.</p>
+    <p>Der kan være fejl på siden, og den er kun ment som en vejledning. Den kan aldrig bruges til at afgøre, om en svamp kan spises.</p>
+    <p><a href="#" class="ghost-link">← Til kalenderen</a></p>
+  </main>
+
+  <footer class="wrap foot">
+    <p><strong>Kilder:</strong> Artsliste, danske navne og spiselighed: <a href="https://svampe.databasen.org/" target="_blank" rel="noopener">Danmarks Svampeatlas</a>. Sæson og hyppighed er beregnet ud fra Svampeatlas' fund 2015–2025 via <a href="https://www.gbif.org/dataset/84d26682-f762-11e1-a439-00145eb45e9a" target="_blank" rel="noopener">GBIF</a> (Danish Mycological Society, fungal records database, <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.da" target="_blank" rel="noopener">CC BY-NC 4.0</a>). Perioder er vejledende.</p>
+    <p><strong>Billeder:</strong> <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>, under frie licenser (CC0, Public domain, CC BY, CC BY-SA). Fotograf og licens står ved hvert billede.</p>
+  </footer>
+
+  <dialog id="detalje" aria-labelledby="d-navn">
+    <form method="dialog"><button class="luk" aria-label="Luk">✕</button></form>
+    <div id="detalje-indhold"></div>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

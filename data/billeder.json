@@ -1,0 +1,3071 @@
+{
+ "kilde": "Wikimedia Commons (https://commons.wikimedia.org/) via Wikipedia",
+ "hentet": "2026-10-05",
+ "bemaerk": "CC BY og CC BY-SA kræver at fotograf og licens krediteres ved visning.",
+ "billeder": {
+  "10000": {
+   "dansk": "Rødmende pjalteporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Abortiporus_biennis_197275.jpg/960px-Abortiporus_biennis_197275.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Abortiporus_biennis_197275.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Martin Livezey (MLivezey) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "10056": {
+   "dansk": "Ager-champignon",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pieczarka_polowa_vongrzanka.JPG/960px-Pieczarka_polowa_vongrzanka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pieczarka_polowa_vongrzanka.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Von.grzanka"
+  },
+  "10057": {
+   "dansk": "Prægtig champignon",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Agaricus_augustus_2011_G1.jpg/960px-Agaricus_augustus_2011_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Agaricus_augustus_2011_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "10062": {
+   "dansk": "Vej-champignon",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Agaricus.bitorquis.nathan.jpg/960px-Agaricus.bitorquis.nathan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Agaricus.bitorquis.nathan.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Nathan Wilson"
+  },
+  "10065": {
+   "dansk": "Mark-champignon",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Agaricus_campestris.jpg/960px-Agaricus_campestris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Agaricus_campestris.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": null
+  },
+  "10079": {
+   "dansk": "Skamløs champignon",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Agaricus_impudicus_01.jpg/960px-Agaricus_impudicus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Agaricus_impudicus_01.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "No machine-readable author provided. Jensbn~commonswiki assumed (based on copyright claims)."
+  },
+  "10108": {
+   "dansk": "Gulhvid champignon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Agaricus_silvicola_father_and_son.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Agaricus_silvicola_father_and_son.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at English Wikipedia"
+  },
+  "10116": {
+   "dansk": "Karbol-champignon",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Agaricus_xanthodermus_section.jpg/960px-Agaricus_xanthodermus_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Agaricus_xanthodermus_section.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Velella"
+  },
+  "10127": {
+   "dansk": "Almindelig agerhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Agrocybe_pediades_Baja_California.jpg/960px-Agrocybe_pediades_Baja_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Agrocybe_pediades_Baja_California.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "10128": {
+   "dansk": "Tidlig agerhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Agrocybe_praecox_cupertino.jpg/960px-Agrocybe_praecox_cupertino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Agrocybe_praecox_cupertino.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "10158": {
+   "dansk": "Almindelig orangebæger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Aleuria_aurantia_%28Orange_Peel_Fungus%29.JPG/960px-Aleuria_aurantia_%28Orange_Peel_Fungus%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Aleuria_aurantia_(Orange_Peel_Fungus).JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "The High Fin Sperm Whale"
+  },
+  "10234": {
+   "dansk": "Brun kam-fluesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Amanita_fulva_lowpx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Amanita_fulva_lowpx.jpg",
+   "licens": "CC BY 1.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/1.0",
+   "fotograf": "Hankwang"
+  },
+  "10252": {
+   "dansk": "Rød fluesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Amanita_muscaria_Aberystwyth_2023.jpg/960px-Amanita_muscaria_Aberystwyth_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Amanita_muscaria_Aberystwyth_2023.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Kieran Roy Powell"
+  },
+  "10257": {
+   "dansk": "Panter-fluesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Amanita_pantherina_2013_G1.jpg/960px-Amanita_pantherina_2013_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_2013_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "10260": {
+   "dansk": "Porfyr-fluesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Amanita_porphyria_Alb._%26_Schwein_355243_2013-08-06_%28cropped%29.jpg/960px-Amanita_porphyria_Alb._%26_Schwein_355243_2013-08-06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Amanita_porphyria_Alb._%26_Schwein_355243_2013-08-06_(cropped).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Dmitriy Bochkov (convallaria) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "10273": {
+   "dansk": "Snehvid fluesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Destroying_Angel_02.jpg/960px-Destroying_Angel_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Destroying_Angel_02.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "en:User:Ben DeRoy"
+  },
+  "10526": {
+   "dansk": "Ægte honningsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Armillaria_mellea%2C_Honey_Fungus%2C_UK_1.jpg/960px-Armillaria_mellea%2C_Honey_Fungus%2C_UK_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Armillaria_mellea,_Honey_Fungus,_UK_1.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Stu's Images"
+  },
+  "10527": {
+   "dansk": "Mørk honningsvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Armillaria_ostoyae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Armillaria_ostoyae.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "W.J.Pilsak (Walter J. Pilsak, Waldsassen) at de.wikipedia"
+  },
+  "10667": {
+   "dansk": "Rødlilla sejskive",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ascocoryne_sarcoides.jpg/960px-Ascocoryne_sarcoides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ascocoryne_sarcoides.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Daryl Thompson"
+  },
+  "10676": {
+   "dansk": "Mønsterskive",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ascodichaena_rugosa_G39_%283%29.jpg/960px-Ascodichaena_rugosa_G39_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ascodichaena_rugosa_G39_(3).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "10934": {
+   "dansk": "Almindelig judasøre",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg/960px-Jelly_Ear%2C_Auricularia_auricula-judae%2C_UK_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Jelly_Ear,_Auricularia_auricula-judae,_UK_2.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Stu's Images"
+  },
+  "10940": {
+   "dansk": "Koglepigsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Auriscalpium_vulgare_129877.jpg/960px-Auriscalpium_vulgare_129877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Auriscalpium_vulgare_129877.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "10969": {
+   "dansk": "Koglebruskhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Baeospora_myosura_707697.jpg/960px-Baeospora_myosura_707697.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Baeospora_myosura_707697.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user gillow2e at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "11031": {
+   "dansk": "Bøge-kulskive",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Biscogniauxia_nummularia_37757.jpg/960px-Biscogniauxia_nummularia_37757.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Biscogniauxia_nummularia_37757.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "11034": {
+   "dansk": "Almindelig gulskive",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bisporella_citrina_1.jpg/960px-Bisporella_citrina_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bisporella_citrina_1.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Jason Hollinger"
+  },
+  "11043": {
+   "dansk": "Sveden sodporesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bjerkandera.adusta.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Bjerkandera.adusta.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "11044": {
+   "dansk": "Grågul sodporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bjerkandera_fumosa_G4_%282%29.JPG/960px-Bjerkandera_fumosa_G4_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bjerkandera_fumosa_G4_(2).JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "11054": {
+   "dansk": "Almindelig gulhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Goldmistpilze2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Goldmistpilze2.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Lebrac"
+  },
+  "11062": {
+   "dansk": "Tenstokket rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Anh%C3%A4ngsel-R%C3%B6hrling_Boletus_appendiculatus.jpg/960px-Anh%C3%A4ngsel-R%C3%B6hrling_Boletus_appendiculatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Anh%C3%A4ngsel-R%C3%B6hrling_Boletus_appendiculatus.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "11064": {
+   "dansk": "Brunstokket rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Boletus_badius_JPG1.jpg/960px-Boletus_badius_JPG1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Boletus_badius_JPG1.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Jean-Pol GRANDMONT"
+  },
+  "11067": {
+   "dansk": "Aurora-rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Hortiboletus_bubalinus_565239.jpg/960px-Hortiboletus_bubalinus_565239.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hortiboletus_bubalinus_565239.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "MichelBeeckman"
+  },
+  "11068": {
+   "dansk": "Skønfodet rørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Schoenfussroehrling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Schoenfussroehrling.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Walter J. Pilsak, Waldsassen"
+  },
+  "11069": {
+   "dansk": "Spiselig rørhat; Karl Johan",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Boletus_edulis_IT.jpg/960px-Boletus_edulis_IT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Boletus_edulis_IT.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "ReddishClover"
+  },
+  "11081": {
+   "dansk": "Snyltende rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Boletus_parasiticus_on_Scleroderma_citrinum.jpg/960px-Boletus_parasiticus_on_Scleroderma_citrinum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Boletus_parasiticus_on_Scleroderma_citrinum.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Hans Hillewaert"
+  },
+  "11082": {
+   "dansk": "Rødsprukken rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Xerocomellus_chrysenteron28.jpg/960px-Xerocomellus_chrysenteron28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Xerocomellus_chrysenteron28.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "DavidCiurea28"
+  },
+  "11085": {
+   "dansk": "Hvidsprukken rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bol.poro.jpg/960px-Bol.poro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bol.poro.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "This image is the work of photographer Zonda Grattus, aka User:luridiformis. The original uploader was Luridiformis at English Wikipedia."
+  },
+  "11086": {
+   "dansk": "Dugget rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2009-09-29_Xerocomellus_pruinatus.jpg/960px-2009-09-29_Xerocomellus_pruinatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2009-09-29_Xerocomellus_pruinatus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "11088": {
+   "dansk": "Sortblånende rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Boletus_pulverulentus_2011_G1.jpg/960px-Boletus_pulverulentus_2011_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Boletus_pulverulentus_2011_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "11091": {
+   "dansk": "Rod-rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Boletus_radicans-20.7.2012-1.JPG/960px-Boletus_radicans-20.7.2012-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Boletus_radicans-20.7.2012-1.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Thkgk"
+  },
+  "11093": {
+   "dansk": "Sommer-rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Boletus.JPG/960px-Boletus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Boletus.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Rude"
+  },
+  "11095": {
+   "dansk": "Blodrød rørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Hortiboletus_rubellus_2016_G1.jpg/960px-Hortiboletus_rubellus_2016_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hortiboletus_rubellus_2016_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "11165": {
+   "dansk": "Blygrå bovist",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bovista_plumbea_128403.jpg/960px-Bovista_plumbea_128403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bovista_plumbea_128403.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ron Pastorino (Ronpast) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "11206": {
+   "dansk": "Afsmittende topsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bulgaria_inquinans_volwassen.jpg/960px-Bulgaria_inquinans_volwassen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bulgaria_inquinans_volwassen.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Pethan at Dutch Wikipedia"
+  },
+  "11230": {
+   "dansk": "Liden guldgaffel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Calocera_cornea_38121.jpg/960px-Calocera_cornea_38121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Calocera_cornea_38121.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Michael (inski)"
+  },
+  "11234": {
+   "dansk": "Almindelig guldgaffel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2025-11-04_D500-1620_Achim-Lammerts_Calocera-viscosa.jpg/960px-2025-11-04_D500-1620_Achim-Lammerts_Calocera-viscosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2025-11-04_D500-1620_Achim-Lammerts_Calocera-viscosa.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Achim Lammerts (Syntaxys)"
+  },
+  "11237": {
+   "dansk": "Vårmusseron",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Calocybe_gambosa_080420wa.jpg/960px-Calocybe_gambosa_080420wa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Calocybe_gambosa_080420wa.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "User:Strobilomyces"
+  },
+  "11317": {
+   "dansk": "Almindelig kantarel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Chanterelle_Cantharellus_cibarius.jpg/960px-Chanterelle_Cantharellus_cibarius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chanterelle_Cantharellus_cibarius.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "11325": {
+   "dansk": "Bleg kantarel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2010-06-18_Cantharellus_pallens_92488.jpg/960px-2010-06-18_Cantharellus_pallens_92488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-06-18_Cantharellus_pallens_92488.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user zaca at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "11573": {
+   "dansk": "Peberrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Chalciporus_piperatus_LC0182.jpg/960px-Chalciporus_piperatus_LC0182.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chalciporus_piperatus_LC0182.jpg",
+   "licens": "CC BY-SA 2.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "11600": {
+   "dansk": "Almindelig grønskive",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Chlorociboria_aeruginascens-336907.jpg/960px-Chlorociboria_aeruginascens-336907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chlorociboria_aeruginascens-336907.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Sava Krstic (sava) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "11608": {
+   "dansk": "Purpurlædersvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Chondrostereum_purpureum_051120A.jpg/960px-Chondrostereum_purpureum_051120A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chondrostereum_purpureum_051120A.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "User:Strobilomyces"
+  },
+  "11611": {
+   "dansk": "Mos-muslingeskål",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chromocyphella_muscicola_%2828388961889%29.jpg/960px-Chromocyphella_muscicola_%2828388961889%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chromocyphella_muscicola_(28388961889).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Björn S..."
+  },
+  "11691": {
+   "dansk": "Lerfarvet køllesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/A_composition_of_some_very_tiny_%28look_at_the_sand-grains_%5E%29_Clavaria_argillacea_%28Heideknotszwam%29_at_Hoge_Veluwe_National_Park_-_panoramio.jpg/960px-A_composition_of_some_very_tiny_%28look_at_the_sand-grains_%5E%29_Clavaria_argillacea_%28Heideknotszwam%29_at_Hoge_Veluwe_National_Park_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:A_composition_of_some_very_tiny_(look_at_the_sand-grains_%5E)_Clavaria_argillacea_(Heideknotszwam)_at_Hoge_Veluwe_National_Park_-_panoramio.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Henk Monster"
+  },
+  "11711": {
+   "dansk": "Herkules-kæmpekølle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Clavariadelphus-pistillaris.jpg/960px-Clavariadelphus-pistillaris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clavariadelphus-pistillaris.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Francisco J. Díez Martín"
+  },
+  "11733": {
+   "dansk": "Eng-køllesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Clavulinopsis_corniculata_168262902.jpg/960px-Clavulinopsis_corniculata_168262902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clavulinopsis_corniculata_168262902.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Frank Sengpiel"
+  },
+  "11736": {
+   "dansk": "Orangegul køllesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yellow_Club_%28Clavulinopsis_helvola%29_%2815712998359%29.jpg/960px-Yellow_Club_%28Clavulinopsis_helvola%29_%2815712998359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Yellow_Club_(Clavulinopsis_helvola)_(15712998359).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Martin Cooper from Ipswich, UK"
+  },
+  "11767": {
+   "dansk": "Vellugtende tragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Clitocybe-fragrans-duft-trichterling.jpg/960px-Clitocybe-fragrans-duft-trichterling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clitocybe-fragrans-duft-trichterling.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "11771": {
+   "dansk": "Stor tragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Clitocybe_geotropa_JPG1.jpg/960px-Clitocybe_geotropa_JPG1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clitocybe_geotropa_JPG1.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Jean-Pol GRANDMONT"
+  },
+  "11772": {
+   "dansk": "Almindelig tragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Clitocybe_gibba_060820w.jpg/960px-Clitocybe_gibba_060820w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clitocybe_gibba_060820w.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "User:Strobilomyces"
+  },
+  "11803": {
+   "dansk": "Eng-tragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2007-08-29_Clitocybe_rivulosa.jpg/960px-2007-08-29_Clitocybe_rivulosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2007-08-29_Clitocybe_rivulosa.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "11825": {
+   "dansk": "Gråhvid melhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Clitopilus_prunulus_-_BC%2C_2024.jpg/960px-Clitopilus_prunulus_-_BC%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clitopilus_prunulus_-_BC,_2024.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Shmarshall"
+  },
+  "12066": {
+   "dansk": "Stor parykhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Coprinus_comatus%2C_the_shaggy_ink_cap%2C_lawyer%27s_wig%2C_or_shaggy_mane_mushroom.jpg/960px-Coprinus_comatus%2C_the_shaggy_ink_cap%2C_lawyer%27s_wig%2C_or_shaggy_mane_mushroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Coprinus_comatus,_the_shaggy_ink_cap,_lawyer%27s_wig,_or_shaggy_mane_mushroom.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Bigredwine1"
+  },
+  "12195": {
+   "dansk": "Møgbæger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/K%C3%B6rniger_Rinderdungbecherling.jpg/960px-K%C3%B6rniger_Rinderdungbecherling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:K%C3%B6rniger_Rinderdungbecherling.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Konrad Lackerbeck"
+  },
+  "12226": {
+   "dansk": "Puppe-snyltekølle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2010-08-06_Cordyceps_militaris_1.jpg/960px-2010-08-06_Cordyceps_militaris_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-08-06_Cordyceps_militaris_1.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "12268": {
+   "dansk": "Lysviolet slørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Cortinarius-alboviolaceus-0203.jpg/960px-Cortinarius-alboviolaceus-0203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Cortinarius-alboviolaceus-0203.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Mars 2002"
+  },
+  "12487": {
+   "dansk": "Høj slørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2009-09-15_Cortinarius_elatior_Fr_57078_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:2009-09-15_Cortinarius_elatior_Fr_57078_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user clancy at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "12750": {
+   "dansk": "Trompetsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Craterellus_cornucopioides_JPG1.jpg/960px-Craterellus_cornucopioides_JPG1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Craterellus_cornucopioides_JPG1.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Jean-Pol GRANDMONT"
+  },
+  "12753": {
+   "dansk": "Tragt-kantarel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Craterellus_tubaeformis_1345904803_69350246bb_o.jpg/960px-Craterellus_tubaeformis_1345904803_69350246bb_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Craterellus_tubaeformis_1345904803_69350246bb_o.jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Miika Silfverberg from Vantaa, Finland"
+  },
+  "12770": {
+   "dansk": "Almindelig muslingesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crepidotus_spec._-_Lindsey_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Crepidotus_spec._-_Lindsey_2.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "12780": {
+   "dansk": "Blød muslingesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Crepidotus_spec._-_Lindsey_3a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Crepidotus_spec._-_Lindsey_3a.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "12918": {
+   "dansk": "Stribet redesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/2012-10-22_Cyathus_striatus_%28Huds.%29_Willd_274333.jpg/960px-2012-10-22_Cyathus_striatus_%28Huds.%29_Willd_274333.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2012-10-22_Cyathus_striatus_(Huds.)_Willd_274333.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user John Roper (madjack74) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "12933": {
+   "dansk": "Okkergul grynhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Amiant-K%C3%B6rnchenschirmling_Cystoderma_amianthinum.jpg/960px-Amiant-K%C3%B6rnchenschirmling_Cystoderma_amianthinum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Amiant-K%C3%B6rnchenschirmling_Cystoderma_amianthinum.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "12956": {
+   "dansk": "Blegpudret grynparasolhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cystolepiota_seminuda_-_Lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Cystolepiota_seminuda_-_Lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James K. Lindsey"
+  },
+  "13003": {
+   "dansk": "Rødmende læderporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%B6tende_Bl%C3%A4tterwirrling_Daedaleopsis_confragosa.JPG/960px-R%C3%B6tende_Bl%C3%A4tterwirrling_Daedaleopsis_confragosa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:R%C3%B6tende_Bl%C3%A4tterwirrling_Daedaleopsis_confragosa.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "13007": {
+   "dansk": "Aske-bæltekugle ",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Collection_of_cramp_balls.JPG/960px-Collection_of_cramp_balls.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Collection_of_cramp_balls.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "J Milburn"
+  },
+  "13353": {
+   "dansk": "Udbredt stenmorkel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Discina_perlata_95195.jpg/960px-Discina_perlata_95195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Discina_perlata_95195.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "13723": {
+   "dansk": "Mel-rødblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Entoloma_prunuloides_567067.jpg/960px-Entoloma_prunuloides_567067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Entoloma_prunuloides_567067.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user zaca at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "13954": {
+   "dansk": "Pile-bævretop",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Exidia_recisa_81407.jpg/960px-Exidia_recisa_81407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Exidia_recisa_81407.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Irene Andersson (irenea) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "13962": {
+   "dansk": "Smuk bævrehinde",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Exidiopsis_effusa_a1_%285%29.JPG/960px-Exidiopsis_effusa_a1_%285%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Exidiopsis_effusa_a1_(5).JPG",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "13997": {
+   "dansk": "Tyttebærblad-bøllesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Exobasidium_vaccinii_Puolukanp%C3%B6h%C3%B6%28sieni%29_IMG_6990.jpg/960px-Exobasidium_vaccinii_Puolukanp%C3%B6h%C3%B6%28sieni%29_IMG_6990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Exobasidium_vaccinii_Puolukanp%C3%B6h%C3%B6(sieni)_IMG_6990.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Anneli Salo"
+  },
+  "14032": {
+   "dansk": "Oksetunge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Fistulina_hepatica.JPG/960px-Fistulina_hepatica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fistulina_hepatica.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jiří Berkovec"
+  },
+  "14062": {
+   "dansk": "Almindelig tøndersvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Fomes_fomentarius_2010_G2.jpg/960px-Fomes_fomentarius_2010_G2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fomes_fomentarius_2010_G2.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "14064": {
+   "dansk": "Randbæltet hovporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Fomitopsis_pinicola_109142.jpg/960px-Fomitopsis_pinicola_109142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fomitopsis_pinicola_109142.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Jason Hollinger (jason) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14119": {
+   "dansk": "Randbæltet hjelmhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Galerina_marginata_Point_Reyes.jpg/960px-Galerina_marginata_Point_Reyes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Galerina_marginata_Point_Reyes.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "14158": {
+   "dansk": "Flad lakporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ganoderma_applanatum_2010_G1.jpg/960px-Ganoderma_applanatum_2010_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ganoderma_applanatum_2010_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "14190": {
+   "dansk": "Kødet stjernebold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Geastrum_triplex_-_Bola_Creek.jpg/960px-Geastrum_triplex_-_Bola_Creek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_-_Bola_Creek.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "JJ Harrison (https://www.jjharrison.com.au/)"
+  },
+  "14306": {
+   "dansk": "Fyrre-korkhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Gloeophyllum_sepiarium_qtl1.jpg/960px-Gloeophyllum_sepiarium_qtl1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gloeophyllum_sepiarium_qtl1.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Quartl"
+  },
+  "14310": {
+   "dansk": "Purpurbrun foldporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Gloeoporus_taxicola_9132269.jpg/960px-Gloeoporus_taxicola_9132269.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gloeoporus_taxicola_9132269.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Bill Sheehan"
+  },
+  "14369": {
+   "dansk": "Grå slimslør",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Gomphidius_glutinosus_131007.jpg/960px-Gomphidius_glutinosus_131007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gomphidius_glutinosus_131007.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Bernd Haynold"
+  },
+  "14371": {
+   "dansk": "Rosenrød slimslør",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gomphidius_roseus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Gomphidius_roseus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "14394": {
+   "dansk": "Tueporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Grifola_frondosa_%2829715305790%29.jpg/960px-Grifola_frondosa_%2829715305790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Grifola_frondosa_(29715305790).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Lukas from London, England"
+  },
+  "14422": {
+   "dansk": "Fibret flammehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gymnopilus_junonius-02.jpg/960px-Gymnopilus_junonius-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gymnopilus_junonius-02.jpg",
+   "licens": "CC BY 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.5",
+   "fotograf": "Tony Wills"
+  },
+  "14428": {
+   "dansk": "Plettet flammehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Gymnopilus_sapineus_group_568289.jpg/960px-Gymnopilus_sapineus_group_568289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gymnopilus_sapineus_group_568289.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Richard Kneal (bloodworm) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14435": {
+   "dansk": "Løv-fladhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Collybia_dryophila_20061001w.jpg/960px-Collybia_dryophila_20061001w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Collybia_dryophila_20061001w.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "User:Strobilomyces"
+  },
+  "14439": {
+   "dansk": "Tenstokket fladhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Collybia_fusipes_EtgRompu_041024_001.jpg/960px-Collybia_fusipes_EtgRompu_041024_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Collybia_fusipes_EtgRompu_041024_001.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "User:Strobilomyces (me)"
+  },
+  "14454": {
+   "dansk": "Ægte stenmorkel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Fr%C3%BChjahrslorchel.JPG/960px-Fr%C3%BChjahrslorchel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fr%C3%BChjahrslorchel.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "14498": {
+   "dansk": "Rødlig okkerporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Hapalopilus_rutilans_1094252.jpg/960px-Hapalopilus_rutilans_1094252.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hapalopilus_rutilans_1094252.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Terri Clements/Donna Fulton (pinonbistro) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14547": {
+   "dansk": "Lerbrun tåreblad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hebeloma_mesophaeum_-_Lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Hebeloma_mesophaeum_-_Lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "14569": {
+   "dansk": "Ræddike-tåreblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hebeloma_sinapizans.JPG/960px-Hebeloma_sinapizans.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hebeloma_sinapizans.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "No machine-readable author provided. Archenzo assumed (based on copyright claims)."
+  },
+  "14607": {
+   "dansk": "Kruset foldhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/0_Helvella_crispa_-_Havr%C3%A9_%281%29.JPG/960px-0_Helvella_crispa_-_Havr%C3%A9_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:0_Helvella_crispa_-_Havr%C3%A9_(1).JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Jean-Pol GRANDMONT"
+  },
+  "14610": {
+   "dansk": "Elastik-foldhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Helvella_elastica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Helvella_elastica.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Chukchi (Chukchi)"
+  },
+  "14615": {
+   "dansk": "Grubet foldhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Helvella_lacunosa_%28south_BC%29.jpg/960px-Helvella_lacunosa_%28south_BC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Helvella_lacunosa_(south_BC).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Kineticcrusher"
+  },
+  "14667": {
+   "dansk": "Koralpigsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2009-09-25_Hericium_coralloides_%28Scop.%29_Pers_58068_crop.jpg/960px-2009-09-25_Hericium_coralloides_%28Scop.%29_Pers_58068_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2009-09-25_Hericium_coralloides_(Scop.)_Pers_58068_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Patrick Harvey (pg_harvey) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14679": {
+   "dansk": "Almindelig rodfordærver",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Heterobasidion_annosum_-_Lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Heterobasidion_annosum_-_Lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "14798": {
+   "dansk": "Almindelig pigsvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hedgehog_fungi2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Hedgehog_fungi2.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "D J Kelly"
+  },
+  "14824": {
+   "dansk": "Gul vokshat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hygrocybe_chlorophana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrocybe_chlorophana.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Jymm"
+  },
+  "14849": {
+   "dansk": "Brusk-vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2009-06-06_Hygrocybe_laeta_2_21847.jpg/960px-2009-06-06_Hygrocybe_laeta_2_21847.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2009-06-06_Hygrocybe_laeta_2_21847.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user {{{2}}} at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14855": {
+   "dansk": "Stinkende vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2008-10-19_Hygrocybe_nitrata_20200_cropped.jpg/960px-2008-10-19_Hygrocybe_nitrata_20200_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2008-10-19_Hygrocybe_nitrata_20200_cropped.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user {{{2}}} at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14859": {
+   "dansk": "Eng-vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2010-11-20_Cuphophyllus_pratensis.jpg/960px-2010-11-20_Cuphophyllus_pratensis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-11-20_Cuphophyllus_pratensis.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "14863": {
+   "dansk": "Skarlagen-vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Crimson_Waxcap._Hygrocybe_punicea_%2849055268862%29.jpg/960px-Crimson_Waxcap._Hygrocybe_punicea_%2849055268862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Crimson_Waxcap._Hygrocybe_punicea_(49055268862).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "gailhampshire from Cradley, Malvern, U.K"
+  },
+  "14866": {
+   "dansk": "Honning-vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Honig-Saftling_Hygrocybe_reidii.JPG/960px-Honig-Saftling_Hygrocybe_reidii.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Honig-Saftling_Hygrocybe_reidii.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "14881": {
+   "dansk": "Snehvid vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2007-10-20_Cuphophyllus_virgineus.jpg/960px-2007-10-20_Cuphophyllus_virgineus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2007-10-20_Cuphophyllus_virgineus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "14886": {
+   "dansk": "Almindelig orangekantarel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hygrophoropsis_aurantiaca_241718.jpg/960px-Hygrophoropsis_aurantiaca_241718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrophoropsis_aurantiaca_241718.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "walt sturgeon (Mycowalt)"
+  },
+  "14891": {
+   "dansk": "Vellugtende sneglehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Hygrophorus_agathosmus_70328.jpg/960px-Hygrophorus_agathosmus_70328.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrophorus_agathosmus_70328.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ryane Snow (snowman) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14897": {
+   "dansk": "Elfenbens-sneglehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hygrophorus_eburneus-pastorino.JPG/960px-Hygrophorus_eburneus-pastorino.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrophorus_eburneus-pastorino.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ron Pastorino at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "14914": {
+   "dansk": "Hvidbrun sneglehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/2010-08-11_Hygrophorus_olivaceoalbus_2.jpg/960px-2010-08-11_Hygrophorus_olivaceoalbus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-08-11_Hygrophorus_olivaceoalbus_2.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "15073": {
+   "dansk": "Gran-svovlhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Hypholoma-capnoides.jpg/960px-Hypholoma-capnoides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hypholoma-capnoides.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Lone Glerup"
+  },
+  "15078": {
+   "dansk": "Knippe-svovlhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hypholoma_fasciculare_Queteraro.jpg/960px-Hypholoma_fasciculare_Queteraro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hypholoma_fasciculare_Queteraro.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "15079": {
+   "dansk": "Teglrød svovlhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HypholomaSublateritium.jpg/960px-HypholomaSublateritium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:HypholomaSublateritium.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Archenzo"
+  },
+  "15233": {
+   "dansk": "Kuljordbær",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hypoxylon_Fragiforme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Hypoxylon_Fragiforme.jpg",
+   "licens": "CC BY 3.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+   "fotograf": "de:Benutzer:Naturfotograf"
+  },
+  "15527": {
+   "dansk": "Birke-spejlporesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Inonotus_obliquus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Inonotus_obliquus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Tocekas"
+  },
+  "15544": {
+   "dansk": "Løv-tjæreporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ischnoderma_resinosum_%28Fr.%29_Karst.jpg/960px-Ischnoderma_resinosum_%28Fr.%29_Karst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ischnoderma_resinosum_(Fr.)_Karst.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dan Molter"
+  },
+  "15584": {
+   "dansk": "Stor kulsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/KretzschmariaDeusta052005.jpg/960px-KretzschmariaDeusta052005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:KretzschmariaDeusta052005.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Tortuosa"
+  },
+  "15624": {
+   "dansk": "Violet ametysthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Laccaria_amethystina_-_Lak%C3%B3wka_ametystowa.jpg/960px-Laccaria_amethystina_-_Lak%C3%B3wka_ametystowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Laccaria_amethystina_-_Lak%C3%B3wka_ametystowa.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Krigore"
+  },
+  "15806": {
+   "dansk": "Mild mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Milde_Milchling_%28Lactarius_aurantiacus%29.JPG/960px-Milde_Milchling_%28Lactarius_aurantiacus%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Milde_Milchling_(Lactarius_aurantiacus).JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "15815": {
+   "dansk": "Dråbeplettet mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lactarius_blennius_JPG01.jpg/960px-Lactarius_blennius_JPG01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_blennius_JPG01.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Jean-Pol GRANDMONT"
+  },
+  "15820": {
+   "dansk": "Kamfer-mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Lactarius_camphoratus_-_Lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_camphoratus_-_Lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "15834": {
+   "dansk": "Velsmagende mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Lactarius_deliciosus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_deliciosus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "15837": {
+   "dansk": "Gran-mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Fichten-Reizker_Lactarius_deterrimus.jpg/960px-Fichten-Reizker_Lactarius_deterrimus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fichten-Reizker_Lactarius_deterrimus.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "15848": {
+   "dansk": "Ræve-mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/2010-09-19_Lactarius_fulvissimus_Romagn_107090.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-09-19_Lactarius_fulvissimus_Romagn_107090.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user amadej trnkoczy (amadej) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "15850": {
+   "dansk": "Kokos-mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lactarius_glyciosmus_20121201w.JPG/960px-Lactarius_glyciosmus_20121201w.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_glyciosmus_20121201w.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Strobilomyces"
+  },
+  "15856": {
+   "dansk": "Mose-mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lactarius_helvus_-_Lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_helvus_-_Lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "15888": {
+   "dansk": "Bleg mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Fleischblasse_Milchling_Lactarius_pallidus.jpg/960px-Fleischblasse_Milchling_Lactarius_pallidus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fleischblasse_Milchling_Lactarius_pallidus.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "15900": {
+   "dansk": "Dunet mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lacpub2big.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lacpub2big.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Игорь Лебединский"
+  },
+  "15906": {
+   "dansk": "Hassel-mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Lactarius_pyrogalus.jpg/960px-Lactarius_pyrogalus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_pyrogalus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Adnan Sinar"
+  },
+  "15908": {
+   "dansk": "Ege-mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Lactarius_quietus_2010_G1.jpg/960px-Lactarius_quietus_2010_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_quietus_2010_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "15915": {
+   "dansk": "Rødbrun mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lact.ruf.jpg/960px-Lact.ruf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lact.ruf.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Zonda Grattus, aka Luridiformis at en.wikipedia (the sole owner and copyright holder of this image)"
+  },
+  "15932": {
+   "dansk": "Sødlig mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lact.sub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lact.sub.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Zonda Grattus, aka Luridiformis at en.wikipedia (the sole owner and copyright holder of this image)"
+  },
+  "15939": {
+   "dansk": "Rynket mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lactarius_hepaticus_031123w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_hepaticus_031123w.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "15943": {
+   "dansk": "Skægget mælkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lactarius_torminosus_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_torminosus_(cropped).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Tocekas"
+  },
+  "15949": {
+   "dansk": "Hvidfiltet mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lactarius_vellereus.jpg/960px-Lactarius_vellereus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_vellereus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Annabel"
+  },
+  "15951": {
+   "dansk": "Violetgrå mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Lactarius041031w.jpg/960px-Lactarius041031w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius041031w.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "15969": {
+   "dansk": "Svovlporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Laetiporus_sulphureus_big.jpg/960px-Laetiporus_sulphureus_big.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Laetiporus_sulphureus_big.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Rror"
+  },
+  "16022": {
+   "dansk": "Kæmpestøvbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Giant_Puffball.jpg/960px-Giant_Puffball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Giant_Puffball.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "The original uploader was Sulfur at English Wikipedia."
+  },
+  "16074": {
+   "dansk": "Tvefarvet filtskind",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2011-04-25_Laxitextum_bicolor_%28Pers.%29_Lentz_142910.jpg/960px-2011-04-25_Laxitextum_bicolor_%28Pers.%29_Lentz_142910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-04-25_Laxitextum_bicolor_(Pers.)_Lentz_142910.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Glen van Niekerk (primordius) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "16080": {
+   "dansk": "Aspe-skælrørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/2006_Leccinum_albostipitatum_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:2006_Leccinum_albostipitatum_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Leccinum_aurantiacum.JPG: Archenzo derivative work: Ak ccm (talk)"
+  },
+  "16111": {
+   "dansk": "Brun skælrørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Birkenpilz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Birkenpilz01.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "16116": {
+   "dansk": "Flammet skælrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Leccinum_variicolor_LC0365.jpg/960px-Leccinum_variicolor_LC0365.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Leccinum_variicolor_LC0365.jpg",
+   "licens": "CC BY-SA 3.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "16117": {
+   "dansk": "Orange skælrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Leccinum_versipelle_LC0366.jpg/960px-Leccinum_versipelle_LC0366.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Leccinum_versipelle_LC0366.jpg",
+   "licens": "CC BY-SA 3.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "16133": {
+   "dansk": "Anis-savbladhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Post-1-1127312702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Post-1-1127312702.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "A.baglivo 05:33, 2 August 2006 (UTC) - Arturo Baglivo ......"
+  },
+  "16138": {
+   "dansk": "Børstehåret savbladhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2011-10-05_Lentinellus_ursinus_%28Fr.%29_K%C3%BChner_172682.jpg/960px-2011-10-05_Lentinellus_ursinus_%28Fr.%29_K%C3%BChner_172682.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-10-05_Lentinellus_ursinus_(Fr.)_K%C3%BChner_172682.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Hamilton (ham) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "16152": {
+   "dansk": "Birke-læderporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Trametes_betulina_California.jpg/960px-Trametes_betulina_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Trametes_betulina_California.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "16158": {
+   "dansk": "Ravsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gr%C3%BCngelbes_Gallertk%C3%A4ppchen_Leotia_lubrica.JPG/960px-Gr%C3%BCngelbes_Gallertk%C3%A4ppchen_Leotia_lubrica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCngelbes_Gallertk%C3%A4ppchen_Leotia_lubrica.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "16165": {
+   "dansk": "Stor pigparasolhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Lep.asp.jpg/960px-Lep.asp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lep.asp.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "User:Luridiformis"
+  },
+  "16173": {
+   "dansk": "Kastaniebrun parasolhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Lepiota_castanea_70848.jpg/960px-Lepiota_castanea_70848.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lepiota_castanea_70848.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ryane Snow (snowman) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "16179": {
+   "dansk": "Stinkende parasolhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/2011-12-01_Lepiota_cristata_%28Bolton%29_P._Kumm_186612.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-12-01_Lepiota_cristata_(Bolton)_P._Kumm_186612.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Copyright ©2011 the tnihekr at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "16185": {
+   "dansk": "Hvid parasolhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lepiota_erminea_588058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lepiota_erminea_588058.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "German.Basidiomycetes"
+  },
+  "16240": {
+   "dansk": "Violet hekseringshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Clitocybe_nuda_%28Fr.%29_H.E._Bigelow_%26_A.H._Sm_267650.jpg/960px-Clitocybe_nuda_%28Fr.%29_H.E._Bigelow_%26_A.H._Sm_267650.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clitocybe_nuda_(Fr.)_H.E._Bigelow_%26_A.H._Sm_267650.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Jimmie Veitch (jimmiev) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "16261": {
+   "dansk": "Spids kulkegle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Leptosphaeria_acuta.jpg/960px-Leptosphaeria_acuta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Leptosphaeria_acuta.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Nicolas Schwab"
+  },
+  "16390": {
+   "dansk": "Rosabladet silkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2009-10-23_Leucoagaricus_leucothites_%28Vittad.%29_M.M._Moser_ex_Bon_61894_crop.jpg/960px-2009-10-23_Leucoagaricus_leucothites_%28Vittad.%29_M.M._Moser_ex_Bon_61894_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2009-10-23_Leucoagaricus_leucothites_(Vittad.)_M.M._Moser_ex_Bon_61894_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ron Pastorino (Ronpast) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "16435": {
+   "dansk": "Kæmpe-tragtridderhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Leucopaxillus_giganteus_20070817wa.JPG/960px-Leucopaxillus_giganteus_20070817wa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Leucopaxillus_giganteus_20070817wa.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Strobilomyces"
+  },
+  "16561": {
+   "dansk": "Fyrre-fureplet",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Lophodermium_pinastri.jpg/960px-Lophodermium_pinastri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lophodermium_pinastri.jpg",
+   "licens": "CC BY 3.0 us",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+   "fotograf": "USDA Forest Service - North Central Research Station Archive"
+  },
+  "16588": {
+   "dansk": "Pindsvine-støvbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lycoperdon_echinatum_54507_crop.jpg/960px-Lycoperdon_echinatum_54507_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lycoperdon_echinatum_54507_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dan Molter"
+  },
+  "16593": {
+   "dansk": "Mark-støvbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Lycoperdon_lividum_570186.jpg/960px-Lycoperdon_lividum_570186.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lycoperdon_lividum_570186.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "MichelBeeckman"
+  },
+  "16597": {
+   "dansk": "Sortagtig støvbold",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lycoperdon_nigrescens_-_Lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lycoperdon_nigrescens_-_Lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "16601": {
+   "dansk": "Krystal-støvbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Single_lycoperdon_perlatum.jpg/960px-Single_lycoperdon_perlatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Single_lycoperdon_perlatum.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Daniel Ullrich, Threedots"
+  },
+  "16647": {
+   "dansk": "Agurkehat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Macrocystidia_cucumis_-_Gurkenschnitzling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Macrocystidia_cucumis_-_Gurkenschnitzling.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Fotograf: Eric Steinert"
+  },
+  "16649": {
+   "dansk": "Mark-kæmpeparasolhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gomba.jpg/960px-Gomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gomba.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Pe-Jo"
+  },
+  "16654": {
+   "dansk": "Puklet kæmpeparasolhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Zitzen-Riesenschirmling_Macrolepiota_mastoidea.JPG/960px-Zitzen-Riesenschirmling_Macrolepiota_mastoidea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Zitzen-Riesenschirmling_Macrolepiota_mastoidea.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "16660": {
+   "dansk": "Stor kæmpeparasolhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Parasol-Macrolepiota-procera.jpg/960px-Parasol-Macrolepiota-procera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Parasol-Macrolepiota-procera.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "16694": {
+   "dansk": "Stor løghat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Marasmius_alliaceus_20070928wb.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Marasmius_alliaceus_20070928wb.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Strobilomyces"
+  },
+  "16717": {
+   "dansk": "Elledans-bruskhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Michigan_Marasmius_oreades.jpg/960px-Michigan_Marasmius_oreades.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Michigan_Marasmius_oreades.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "16723": {
+   "dansk": "Hjul-bruskhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Marasmius_rotula_148433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Marasmius_rotula_148433.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Eric Smith (Bobzimmer)"
+  },
+  "16726": {
+   "dansk": "Bøgeblads-bruskhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Marasmius_setosus_a2_detail.jpg/960px-Marasmius_setosus_a2_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Marasmius_setosus_a2_detail.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "16732": {
+   "dansk": "Hvælvet bruskhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Marasmius_wynneae_1124702.jpg/960px-Marasmius_wynneae_1124702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Marasmius_wynneae_1124702.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Richard Daniel (RichardDaniel) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "16867": {
+   "dansk": "Ved-stråhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Deconica_horizontalis_129199897.jpg/960px-Deconica_horizontalis_129199897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Deconica_horizontalis_129199897.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "SJM McFish"
+  },
+  "16907": {
+   "dansk": "Kæmpeporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Meripilus_giganteus_%28Karst_1882%29.jpg/960px-Meripilus_giganteus_%28Karst_1882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Meripilus_giganteus_(Karst_1882).jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Michael Gäbler"
+  },
+  "17154": {
+   "dansk": "Spiselig morkel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Morchella_esculenta_-_DE_-_TH_-_2013-05-01_-_01.JPG/960px-Morchella_esculenta_-_DE_-_TH_-_2013-05-01_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Morchella_esculenta_-_DE_-_TH_-_2013-05-01_-_01.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "TOMMES-WIKI"
+  },
+  "17176": {
+   "dansk": "Hunde-stinksvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gemeine_Hundsrute_Mutinus_caninus.JPG/960px-Gemeine_Hundsrute_Mutinus_caninus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gemeine_Hundsrute_Mutinus_caninus.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "17182": {
+   "dansk": "Plæne-huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Mycena_aetites.png/960px-Mycena_aetites.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_aetites.png",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Arne Aronsen, Naturhistorisk museum, Universitetet i Oslo"
+  },
+  "17191": {
+   "dansk": "Oliven-huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Mycena_arcangeliana_107930.jpg/960px-Mycena_arcangeliana_107930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_arcangeliana_107930.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Josh Milburn (J Milburn) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "17215": {
+   "dansk": "Gulmælket huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Mycena_crocata.jpg/960px-Mycena_crocata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_crocata.jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Alastair Rae"
+  },
+  "17221": {
+   "dansk": "Gulstokket huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Dehnbare_Helmling_Mycena_epipterygia.jpg/960px-Dehnbare_Helmling_Mycena_epipterygia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Dehnbare_Helmling_Mycena_epipterygia.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "17233": {
+   "dansk": "Toppet huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mycena_60303.jpg/960px-Mycena_60303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_60303.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dan Molter (shroomydan)"
+  },
+  "17234": {
+   "dansk": "Hvidmælket huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Mycena_galopus_68060.jpg/960px-Mycena_galopus_68060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_galopus_68060.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Richard Sullivan (enchplant) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "17238": {
+   "dansk": "Blødende huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Haematopus-on-oak.jpg/960px-Haematopus-on-oak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Haematopus-on-oak.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "17242": {
+   "dansk": "Nikkende huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Mycena_inclinata%2C_Clustered_Bonnet%2C_UK.jpg/960px-Mycena_inclinata%2C_Clustered_Bonnet%2C_UK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_inclinata,_Clustered_Bonnet,_UK.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Stu's Images"
+  },
+  "17250": {
+   "dansk": "Klor-huesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mycena_epipterygia_-_Lindsey_9a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_epipterygia_-_Lindsey_9a.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James K. Lindsey"
+  },
+  "17258": {
+   "dansk": "Rødlig huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Mycena_metata.png/960px-Mycena_metata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_metata.png",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Arne Aronsen, Naturhistorisk museum, Universitetet i Oslo"
+  },
+  "17266": {
+   "dansk": "Brunægget huesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mycena_epipterygia_-_Lindsey_7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_epipterygia_-_Lindsey_7a.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James K. Lindsey"
+  },
+  "17277": {
+   "dansk": "Mangestribet huesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mycena_cf_amicta_-_Lindsey_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_cf_amicta_-_Lindsey_1.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "17289": {
+   "dansk": "Rosa huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Mycena_rosea%2C_Rosy_Bonnet%2C_UKB.jpg/960px-Mycena_rosea%2C_Rosy_Bonnet%2C_UKB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_rosea,_Rosy_Bonnet,_UKB.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Stu's Images"
+  },
+  "17296": {
+   "dansk": "Rødmælket huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Mycena_sanguinolenta_Van_Damme.jpg/960px-Mycena_sanguinolenta_Van_Damme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_sanguinolenta_Van_Damme.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "17325": {
+   "dansk": "Blankstokket huesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mycena_spec._-_Lindsey_16a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_spec._-_Lindsey_16a.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James K. Lindsey"
+  },
+  "17329": {
+   "dansk": "Brunplettet huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2012-10-18_Mycena_zephirus_319638.jpg/960px-2012-10-18_Mycena_zephirus_319638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2012-10-18_Mycena_zephirus_319638.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "17469": {
+   "dansk": "Klar bævretop",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Brain_Fungus_%28Exidia_nucleata%29_-_geograph.org.uk_-_1000447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Crystal_Brain_Fungus_(Exidia_nucleata)_-_geograph.org.uk_-_1000447.jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Lairich Rig"
+  },
+  "17534": {
+   "dansk": "Almindelig cinnobersvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nectria_cinnabarina.jpg/960px-Nectria_cinnabarina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Nectria_cinnabarina.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "17641": {
+   "dansk": "Almindelig kuldyne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Nemania_serpens_417411.jpg/960px-Nemania_serpens_417411.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Nemania_serpens_417411.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Elsa (pinknailsgirl) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "17912": {
+   "dansk": "Æsel-ørebæger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Eselsohren_Otidea_onotica.jpg/960px-Eselsohren_Otidea_onotica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eselsohren_Otidea_onotica.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Lebrac"
+  },
+  "17930": {
+   "dansk": "Sammenvokset trylleporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Oxyporus_populinus01.jpg/960px-Oxyporus_populinus01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Oxyporus_populinus01.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Joseph O'Brien, USDA Forest Service, Bugwood.org"
+  },
+  "17946": {
+   "dansk": "Høj glanshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Panaeolus_acuminatus.jpg/960px-Panaeolus_acuminatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Panaeolus_acuminatus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": null
+  },
+  "17949": {
+   "dansk": "Høslætsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Panaeolus_foenisecii_Cupertino.jpg/960px-Panaeolus_foenisecii_Cupertino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Panaeolus_foenisecii_Cupertino.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "17953": {
+   "dansk": "Almindelig glanshat ",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Panaeolus_papilionaceus_California.jpg/960px-Panaeolus_papilionaceus_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Panaeolus_papilionaceus_California.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "17968": {
+   "dansk": "Kliddet epaulethat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Panellus_stipticus_%2837162668243%29.jpg/960px-Panellus_stipticus_%2837162668243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Panellus_stipticus_(37162668243).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Björn S..."
+  },
+  "18007": {
+   "dansk": "Almindelig netbladhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Navadne_podvihanke_%28Paxillus_involutus%29.jpg/960px-Navadne_podvihanke_%28Paxillus_involutus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Navadne_podvihanke_(Paxillus_involutus).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Petar Milošević"
+  },
+  "18043": {
+   "dansk": "Laksefarvet voksskind",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Peniophora_incarnata_%2836443147085%29.jpg/960px-Peniophora_incarnata_%2836443147085%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Peniophora_incarnata_(36443147085).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Björn S..."
+  },
+  "18054": {
+   "dansk": "Ege-voksskind",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Peniophora-quercina-Crust-fungus-20110225a.JPG/960px-Peniophora-quercina-Crust-fungus-20110225a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Peniophora-quercina-Crust-fungus-20110225a.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "TristramBrelstaff"
+  },
+  "18259": {
+   "dansk": "Ved-bægersvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Peziza_repanda.JPG/960px-Peziza_repanda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Peziza_repanda.JPG",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Rosser1954 Roger Griffith"
+  },
+  "18328": {
+   "dansk": "Gyldenhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Phaeolepiota_aurea_10866-83fabfaacdf92ca2ba5a395f175754a4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Phaeolepiota_aurea_10866-83fabfaacdf92ca2ba5a395f175754a4.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "GgXTcp4RE8U1wqmo"
+  },
+  "18329": {
+   "dansk": "Brunporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Phaeolus_schweinitzii_433858897.jpg/960px-Phaeolus_schweinitzii_433858897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phaeolus_schweinitzii_433858897.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Matej Frančeškin"
+  },
+  "18363": {
+   "dansk": "Almindelig stinksvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Phallus_impudicus_LC0235.jpg/960px-Phallus_impudicus_LC0235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phallus_impudicus_LC0235.jpg",
+   "licens": "CC BY-SA 3.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "18390": {
+   "dansk": "Almindelig ildporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Phellinus_igniarius_Oak_2009_G1.jpg/960px-Phellinus_igniarius_Oak_2009_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phellinus_igniarius_Oak_2009_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "18448": {
+   "dansk": "Stråle-åresvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Phlebia_radiata_fungus.jpg/960px-Phlebia_radiata_fungus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phlebia_radiata_fungus.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Dohduhdah"
+  },
+  "18475": {
+   "dansk": "Pudderkølle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2011-10-23_Phleogena_faginea_%28Fr.%29_Link_214654.jpg/960px-2011-10-23_Phleogena_faginea_%28Fr.%29_Link_214654.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-10-23_Phleogena_faginea_(Fr.)_Link_214654.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Martin Livezey (MLivezey) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "18484": {
+   "dansk": "Flamme-skælhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pholiota_flammans2.JPG/960px-Pholiota_flammans2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pholiota_flammans2.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Paffka"
+  },
+  "18486": {
+   "dansk": "Grøngul skælhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2010-11-06_Pholiota_gummosa_%28Lasch%29_Singer_118899.jpg/960px-2010-11-06_Pholiota_gummosa_%28Lasch%29_Singer_118899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-11-06_Pholiota_gummosa_(Lasch)_Singer_118899.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Irene Andersson (irenea) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "18508": {
+   "dansk": "Krumskællet skælhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sparrige-Sch%C3%BCppling_%28Pholiota_squarrosa%29.JPG/960px-Sparrige-Sch%C3%BCppling_%28Pholiota_squarrosa%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sparrige-Sch%C3%BCppling_(Pholiota_squarrosa).JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "18712": {
+   "dansk": "Okkerblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Phyllotopsis_nidulans_60083.jpg/960px-Phyllotopsis_nidulans_60083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phyllotopsis_nidulans_60083.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Bob Zuberbuhler (Bob Z)"
+  },
+  "18866": {
+   "dansk": "Korkagtig østershat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Pleurotus_dryinus_JPG1.jpg/960px-Pleurotus_dryinus_JPG1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pleurotus_dryinus_JPG1.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Jean-Pol GRANDMONT"
+  },
+  "18870": {
+   "dansk": "Almindelig østershat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pleurotus_ostreatus_JPG7.jpg/960px-Pleurotus_ostreatus_JPG7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_JPG7.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "voir ci-dessous / see below"
+  },
+  "18871": {
+   "dansk": "Sommer-østershat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Pleurotus_pulmonarius_LC0228.jpg/960px-Pleurotus_pulmonarius_LC0228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pleurotus_pulmonarius_LC0228.jpg",
+   "licens": "CC BY-SA 3.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "18882": {
+   "dansk": "Almindelig krusblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Crimped_Gill_fungus_%28Plicaturopsis_crispa%29.jpg/960px-Crimped_Gill_fungus_%28Plicaturopsis_crispa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Crimped_Gill_fungus_(Plicaturopsis_crispa).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "FungiFriendly"
+  },
+  "18890": {
+   "dansk": "Sodfarvet skærmhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg/960px-Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Reinhold Möller Ermell"
+  },
+  "18919": {
+   "dansk": "Stiv skærmhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2011-11-12_Pluteus_salicinus_%28Pers.%29_P._Kumm_181966.jpg/960px-2011-11-12_Pluteus_salicinus_%28Pers.%29_P._Kumm_181966.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-11-12_Pluteus_salicinus_(Pers.)_P._Kumm_181966.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user zaca at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "19009": {
+   "dansk": "Knoldet stilkporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2026-07-24_Polyporus_tuberaster_%28Z5-10330E%29_by_Achim-Lammerts.jpg/960px-2026-07-24_Polyporus_tuberaster_%28Z5-10330E%29_by_Achim-Lammerts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2026-07-24_Polyporus_tuberaster_(Z5-10330E)_by_Achim-Lammerts.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Achim Lammerts (Syntaxys) / Wikimedia Commons"
+  },
+  "19163": {
+   "dansk": "Lysstokket mørkhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Psathyrella_piluliformis%2C_Common_Stump_Brittlestem.jpg/960px-Psathyrella_piluliformis%2C_Common_Stump_Brittlestem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Psathyrella_piluliformis,_Common_Stump_Brittlestem.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Stu's Images"
+  },
+  "19213": {
+   "dansk": "Almindelig bægertragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pseudoclitcybe_cyathiformis.jpg/960px-Pseudoclitcybe_cyathiformis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pseudoclitcybe_cyathiformis.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Shmarshall"
+  },
+  "19225": {
+   "dansk": "Bævretand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Pseudohydnum_gelatinosum_Abernethy_Forest.jpg/960px-Pseudohydnum_gelatinosum_Abernethy_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pseudohydnum_gelatinosum_Abernethy_Forest.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Paul Bowyer"
+  },
+  "19336": {
+   "dansk": "Rødbrun stråhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Psilocybe.montana.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Psilocybe.montana.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "19549": {
+   "dansk": "Flammeporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Pycnoporellus_fulgens_56515.jpg/960px-Pycnoporellus_fulgens_56515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pycnoporellus_fulgens_56515.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ryane Snow (snowman) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "19550": {
+   "dansk": "Cinnoberporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Pycnoporus_cinnabarinus_%28Jacq.%29_P._Karst_153.jpg/960px-Pycnoporus_cinnabarinus_%28Jacq.%29_P._Karst_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pycnoporus_cinnabarinus_(Jacq.)_P._Karst_153.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Nathan Wilson (nathan) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "19689": {
+   "dansk": "Rank koralsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ramaria_stricta_171867.jpg/960px-Ramaria_stricta_171867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ramaria_stricta_171867.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Martin Livezey (MLivezey) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "19775": {
+   "dansk": "Almindelig vokstand",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Resinicium.bicolor2.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Resinicium.bicolor2.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "19815": {
+   "dansk": "Plettet fladhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Rhodocollybia.maculata.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Rhodocollybia.maculata.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "19843": {
+   "dansk": "Ahorn-rynkeplet",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Tar_spot_fungus_%2876170%29.jpg/960px-Tar_spot_fungus_%2876170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tar_spot_fungus_(76170).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Rhododendrites"
+  },
+  "19848": {
+   "dansk": "Orange mosnavlehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2011-10-28_Rickenella_fibula_%28Bulliard-_Fries%29_Raithelhuber_178120_cropped.jpg/960px-2011-10-28_Rickenella_fibula_%28Bulliard-_Fries%29_Raithelhuber_178120_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-10-28_Rickenella_fibula_(Bulliard-_Fries)_Raithelhuber_178120_cropped.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Tim Sage (T. Sage) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "19910": {
+   "dansk": "Sveden skørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Russula_nigricans_-_Lindsey_3a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_nigricans_-_Lindsey_3a.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James K. Lindsey"
+  },
+  "19911": {
+   "dansk": "Græsgrøn skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2005-08-18_Russula_aeruginea_14354_mod.jpg/960px-2005-08-18_Russula_aeruginea_14354_mod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2005-08-18_Russula_aeruginea_14354_mod.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Irene Andersson (irenea) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "19931": {
+   "dansk": "Bleg gift-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Russula_betularum.jpg/960px-Russula_betularum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_betularum.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at English Wikipedia"
+  },
+  "19951": {
+   "dansk": "Broget skørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Russula_cyanoxantha.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "19956": {
+   "dansk": "Almindelig tragt-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Russ.del.jpg/960px-Russ.del.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russ.del.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at English Wikipedia"
+  },
+  "19964": {
+   "dansk": "Stor gift-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Russula_emetica_in_Poland.jpg/960px-Russula_emetica_in_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_emetica_in_Poland.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "MichalPL"
+  },
+  "19970": {
+   "dansk": "Galde-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Russ.fell.jpg/960px-Russ.fell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russ.fell.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at en.wikipedia"
+  },
+  "19973": {
+   "dansk": "Stinkende kam-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Russula_foetens.JPG/960px-Russula_foetens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_foetens.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Szabi237"
+  },
+  "19983": {
+   "dansk": "Marcipanduftende kam-skørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/2010-09-06_Russula_laurocerasi_Melzer_122171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-09-06_Russula_laurocerasi_Melzer_122171.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user amadej trnkoczy (amadej) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "19991": {
+   "dansk": "Gaffelbladet skørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Russ.het.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Russ.het.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "User:Luridiformis"
+  },
+  "20010": {
+   "dansk": "Lille gift-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Russ_nobilis.jpg/960px-Russ_nobilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russ_nobilis.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at English Wikipedia"
+  },
+  "20024": {
+   "dansk": "Okkergul skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Russula_ochroleuca_ch%C3%A2taigne.JPG/960px-Russula_ochroleuca_ch%C3%A2taigne.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_ochroleuca_ch%C3%A2taigne.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Atheox"
+  },
+  "20027": {
+   "dansk": "Stor skørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Russula.olivacea.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula.olivacea.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "20032": {
+   "dansk": "Prægtig skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Tiny_Russula_paludosa_%28Appelrussula%29_at_Rozendaal_castle_park_-_panoramio.jpg/960px-Tiny_Russula_paludosa_%28Appelrussula%29_at_Rozendaal_castle_park_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tiny_Russula_paludosa_(Appelrussula)_at_Rozendaal_castle_park_-_panoramio.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Henk Monster"
+  },
+  "20051": {
+   "dansk": "Quélets skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Stachelbeer-T%C3%A4ubling_Russula_queletii.JPG/960px-Stachelbeer-T%C3%A4ubling_Russula_queletii.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stachelbeer-T%C3%A4ubling_Russula_queletii.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "20055": {
+   "dansk": "Abrikos-skørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/2012-06-15_Russula_risigallina_%28Batsch%29_Saccardo_228083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:2012-06-15_Russula_risigallina_(Batsch)_Saccardo_228083.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "20057": {
+   "dansk": "Fastkødet skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2011-05-14_Russula_lepida_146790_146793_combined.jpg/960px-2011-05-14_Russula_lepida_146790_146793_combined.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-05-14_Russula_lepida_146790_146793_combined.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user zaca at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "20063": {
+   "dansk": "Citronbladet skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Russ.sard.jpg/960px-Russ.sard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russ.sard.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at English Wikipedia"
+  },
+  "20068": {
+   "dansk": "Sol-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Russula_solaris.JPG/960px-Russula_solaris.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_solaris.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Toffel"
+  },
+  "20093": {
+   "dansk": "Spiselig skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Russ.ves.jpg/960px-Russ.ves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russ.ves.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at English Wikipedia"
+  },
+  "20100": {
+   "dansk": "Ferskengul skørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Russula_violeipes_243363.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_violeipes_243363.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "deuteragenie"
+  },
+  "20101": {
+   "dansk": "Spanskgrøn skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Russula_virescens3.JPG/960px-Russula_virescens3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_virescens3.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Paffka"
+  },
+  "20105": {
+   "dansk": "Hummer-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2011-11-08_Russula_xerampelina_%28Schaeff.%29_Fr_180998_mod.jpg/960px-2011-11-08_Russula_xerampelina_%28Schaeff.%29_Fr_180998_mod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-11-08_Russula_xerampelina_(Schaeff.)_Fr_180998_mod.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ron Pastorino (Ronpast) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "20171": {
+   "dansk": "Krølhåret pragtbæger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sarcoscypha_austriaca_81949.jpg/960px-Sarcoscypha_austriaca_81949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sarcoscypha_austriaca_81949.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Dan Molter (shroomydan) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "20186": {
+   "dansk": "Kløvblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Schizophyllum_commune_%28Split_gill%29_%2833389628036%29.jpg/960px-Schizophyllum_commune_%28Split_gill%29_%2833389628036%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg",
+   "licens": "CC0",
+   "licensUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fotograf": "Bernard Spragg. NZ from Christchurch, New Zealand"
+  },
+  "20216": {
+   "dansk": "Plettet bruskbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Scleroderma_areolatum.jpg/960px-Scleroderma_areolatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Scleroderma_areolatum.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "pellaea"
+  },
+  "20219": {
+   "dansk": "Almindelig bruskbold",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Scleroderma_citrinum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Scleroderma_citrinum.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Eric Steinert"
+  },
+  "20225": {
+   "dansk": "Stilket bruskbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Scleroderma_verrucosum_01.JPG/960px-Scleroderma_verrucosum_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Scleroderma_verrucosum_01.JPG",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Grzegorz \"Spike\" Rendchen"
+  },
+  "20281": {
+   "dansk": "Frynset skjoldbæger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Scutellinia_scutellata_Dan_Molter_crop.jpg/960px-Scutellinia_scutellata_Dan_Molter_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Scutellinia_scutellata_Dan_Molter_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dan Molter"
+  },
+  "20312": {
+   "dansk": "Naftalinskorpe ",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Scytinostroma_hemidichophyticum_%2838408689006%29.jpg/960px-Scytinostroma_hemidichophyticum_%2838408689006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Scytinostroma_hemidichophyticum_(38408689006).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Björn S..."
+  },
+  "20371": {
+   "dansk": "Tyndkødet hussvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2010-09-17_Serpula_himantioides_2.jpg/960px-2010-09-17_Serpula_himantioides_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-09-17_Serpula_himantioides_2.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "20423": {
+   "dansk": "Orange krystalporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2011-12-17_Skeletocutis_amorpha_190007.jpg/960px-2011-12-17_Skeletocutis_amorpha_190007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2011-12-17_Skeletocutis_amorpha_190007.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Britney (Riverdweller) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "20424": {
+   "dansk": "Rødgrå krystalporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2012-02-24_Skeletocutis_carneogrisea_A._David_201033.jpg/960px-2012-02-24_Skeletocutis_carneogrisea_A._David_201033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2012-02-24_Skeletocutis_carneogrisea_A._David_201033.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "20469": {
+   "dansk": "Kruset blomkålssvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Grote_sponszwam_%28Sparassis_crispa%29._09-11-2023._%28d.j.b%29.jpg/960px-Grote_sponszwam_%28Sparassis_crispa%29._09-11-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Grote_sponszwam_(Sparassis_crispa)._09-11-2023._(d.j.b).jpg",
+   "licens": "CC0",
+   "licensUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fotograf": "Dominicus Johannes Bergsma"
+  },
+  "20470": {
+   "dansk": "Gul spatelsvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Spathularia_flavida_29116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Spathularia_flavida_29116.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Irene Andersson"
+  },
+  "20603": {
+   "dansk": "Almindelig skønpig",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Steccherinum_ochraceum_82227.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Steccherinum_ochraceum_82227.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Eva Skific (Evica)"
+  },
+  "20630": {
+   "dansk": "Håret lædersvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Stereum_hirsutum_Aberystwyth_2024.jpg/960px-Stereum_hirsutum_Aberystwyth_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stereum_hirsutum_Aberystwyth_2024.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Kieran Roy Powell"
+  },
+  "20633": {
+   "dansk": "Blødende lædersvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2006-03-10_Stereum_sanguinolentum.jpg/960px-2006-03-10_Stereum_sanguinolentum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2006-03-10_Stereum_sanguinolentum.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "20681": {
+   "dansk": "Koglerørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Strobilomyces_floccopus_89374.jpg/960px-Strobilomyces_floccopus_89374.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Strobilomyces_floccopus_89374.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Patrick Harvey (pg_harvey) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "20682": {
+   "dansk": "Gran-koglehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2005-03-28_Strobilurus_esculentus.jpg/960px-2005-03-28_Strobilurus_esculentus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2005-03-28_Strobilurus_esculentus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "20692": {
+   "dansk": "Spanskgrøn bredblad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Stropharia.aeruginosa.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Stropharia.aeruginosa.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "20696": {
+   "dansk": "Ager-bredblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Stropharia_coronilla_20070819wa.JPG/960px-Stropharia_coronilla_20070819wa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stropharia_coronilla_20070819wa.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Strobilomyces"
+  },
+  "20697": {
+   "dansk": "Blågrøn bredblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Stropharia_caerulea_a2_%282%29.JPG/960px-Stropharia_caerulea_a2_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stropharia_caerulea_a2_(2).JPG",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "20705": {
+   "dansk": "Halvkugleformet bredblad",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Stropharia_semiglobata_38287.jpg/960px-Stropharia_semiglobata_38287.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stropharia_semiglobata_38287.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jason Hollinger"
+  },
+  "20723": {
+   "dansk": "Olivengrå slimrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Suillus_viscidus.jpg/960px-Suillus_viscidus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Suillus_viscidus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Dezidor"
+  },
+  "20726": {
+   "dansk": "Grovporet slimrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Suillus_bovinus_2011_10_07.jpg/960px-Suillus_bovinus_2011_10_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Suillus_bovinus_2011_10_07.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jürgen Endres"
+  },
+  "20731": {
+   "dansk": "Kornet slimrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/K%C3%B6rnchen-R%C3%B6hrling_Suillus_granulatus_1.jpg/960px-K%C3%B6rnchen-R%C3%B6hrling_Suillus_granulatus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:K%C3%B6rnchen-R%C3%B6hrling_Suillus_granulatus_1.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "20734": {
+   "dansk": "Brungul slimrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Suillus_luteus_475376.jpg/960px-Suillus_luteus_475376.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Suillus_luteus_475376.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "walt sturgeon (Mycowalt)"
+  },
+  "20739": {
+   "dansk": "Broget slimrørhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Suill.var.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Suill.var.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "User:Luridiformis"
+  },
+  "20828": {
+   "dansk": "Sortfiltet viftesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Samtfu%C3%9F-Holzkrempling_Tapinella_atrotomentosa.jpg/960px-Samtfu%C3%9F-Holzkrempling_Tapinella_atrotomentosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Samtfu%C3%9F-Holzkrempling_Tapinella_atrotomentosa.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "20894": {
+   "dansk": "Grenet frynsesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stinkende_Lederkoralle_Thelephora_palmata.jpg/960px-Stinkende_Lederkoralle_Thelephora_palmata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stinkende_Lederkoralle_Thelephora_palmata.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "20897": {
+   "dansk": "Fliget frynsesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Thelephora.terrestris.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Thelephora.terrestris.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "20977": {
+   "dansk": "Puklet læderporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Trametes_gibbosa_JPG1.jpg/960px-Trametes_gibbosa_JPG1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Trametes_gibbosa_JPG1.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jean-Pol GRANDMONT"
+  },
+  "20978": {
+   "dansk": "Håret læderporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Trametes_hirsuta_BS14.2.jpg/960px-Trametes_hirsuta_BS14.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Trametes_hirsuta_BS14.2.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "20979": {
+   "dansk": "Bæltet læderporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Trametes_ochracea_a3_%288%29.jpg/960px-Trametes_ochracea_a3_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Trametes_ochracea_a3_(8).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "20983": {
+   "dansk": "Broget læderporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Trametes_versicolor_G4_%281%29.JPG/960px-Trametes_versicolor_G4_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Trametes_versicolor_G4_(1).JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "21037": {
+   "dansk": "Gul bævresvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tremella_mesenterica_branch.JPG/960px-Tremella_mesenterica_branch.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tremella_mesenterica_branch.JPG",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "J. Carmichael"
+  },
+  "21103": {
+   "dansk": "Slør-ridderhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Tricholoma_argyraceum_56.jpg/960px-Tricholoma_argyraceum_56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tricholoma_argyraceum_56.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Nathan Wilson (nathan) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "21125": {
+   "dansk": "Birke-ridderhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tricholoma_fulvum_LC0373.jpg/960px-Tricholoma_fulvum_LC0373.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tricholoma_fulvum_LC0373.jpg",
+   "licens": "CC BY-SA 3.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "21143": {
+   "dansk": "Gulplettet ridderhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tricholoma_scalpuratum_20061014wa.jpg/960px-Tricholoma_scalpuratum_20061014wa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tricholoma_scalpuratum_20061014wa.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "User:Strobilomyces"
+  },
+  "21151": {
+   "dansk": "Svovl-ridderhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tricholoma_sulphureum_031123w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Tricholoma_sulphureum_031123w.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Strobilomyces"
+  },
+  "21152": {
+   "dansk": "Jordfarvet ridderhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tricholoma_terreum_20061105wa.jpg/960px-Tricholoma_terreum_20061105wa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tricholoma_terreum_20061105wa.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "User:Strobilomyces"
+  },
+  "21155": {
+   "dansk": "Sveden ridderhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tricholoma.ustale.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Tricholoma.ustale.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "21162": {
+   "dansk": "Purpur-væbnerhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Trichol_rutilans02_Alberto_V%C3%A1zquez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Trichol_rutilans02_Alberto_V%C3%A1zquez.JPG",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Alberto Vázquez"
+  },
+  "21232": {
+   "dansk": "Bleg fnughat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Tubaria_conspersa_%2844603373385%29.jpg/960px-Tubaria_conspersa_%2844603373385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tubaria_conspersa_(44603373385).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Björn S..."
+  },
+  "21234": {
+   "dansk": "Kliddet fnughat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Tubaria_furfuracea_California.jpg/960px-Tubaria_furfuracea_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tubaria_furfuracea_California.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "21358": {
+   "dansk": "Galderørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2006-09-14_Tylopilus_felleus_crop.jpg/960px-2006-09-14_Tylopilus_felleus_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2006-09-14_Tylopilus_felleus_crop.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Tylopilus_felleus_060914c.jpg: bernd gliwa derivative work: Ak ccm"
+  },
+  "21632": {
+   "dansk": "Flad støvbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/2007-08-09_Lycoperdon_pratense.jpg/960px-2007-08-09_Lycoperdon_pratense.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2007-08-09_Lycoperdon_pratense.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "21761": {
+   "dansk": "Almindelig pælerodshat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Xerula.radicata3.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Xerula.radicata3.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "21772": {
+   "dansk": "Grenet stødsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Geweihf%C3%B6rmige_Holzkeule_-_Staghorn_fungus_-_Xylaria_hypoxylon_-_01.jpg/960px-Geweihf%C3%B6rmige_Holzkeule_-_Staghorn_fungus_-_Xylaria_hypoxylon_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Geweihf%C3%B6rmige_Holzkeule_-_Staghorn_fungus_-_Xylaria_hypoxylon_-_01.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Norbert Nagel"
+  },
+  "21774": {
+   "dansk": "Slank stødsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Langstielige_Ahorn-Holzkeule_%28Xylaria_longipes%29.JPG/960px-Langstielige_Ahorn-Holzkeule_%28Xylaria_longipes%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Langstielige_Ahorn-Holzkeule_(Xylaria_longipes).JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "21778": {
+   "dansk": "Kølle-stødsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Dead_man%27s_fingers_Xylaria_polymorpha.jpg/960px-Dead_man%27s_fingers_Xylaria_polymorpha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Dead_man%27s_fingers_Xylaria_polymorpha.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Michael Gäbler"
+  },
+  "40392": {
+   "dansk": "Køllestokket honningsvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Armillaria_gallica_26659.jpg/960px-Armillaria_gallica_26659.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Armillaria_gallica_26659.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Dan Molter (shroomydan) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "40985": {
+   "dansk": "Læder-åresvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Byssomerulius_corium_73928.jpg/960px-Byssomerulius_corium_73928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Byssomerulius_corium_73928.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Irene Andersson (irenea) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "41002": {
+   "dansk": "Rosa fagerhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Calocybe_carnea.jpg/960px-Calocybe_carnea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Calocybe_carnea.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at English Wikipedia"
+  },
+  "43396": {
+   "dansk": "Højstokket støvbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Plooivoetstuifzwam_%28Lycoperdon_excipuliforme%29._Locatie%2C_Hortus_%28Haren%2C_Groningen%29_10.jpg/960px-Plooivoetstuifzwam_%28Lycoperdon_excipuliforme%29._Locatie%2C_Hortus_%28Haren%2C_Groningen%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Plooivoetstuifzwam_(Lycoperdon_excipuliforme)._Locatie,_Hortus_(Haren,_Groningen)_10.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Dominicus Johannes Bergsma"
+  },
+  "44017": {
+   "dansk": "Foranderlig skælhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stockschwaemmchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Stockschwaemmchen.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "44084": {
+   "dansk": "Grædende mørkhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lacrymaria_lacrymabunda_%28Bull.%29_Pat_173183_crop.jpg/960px-Lacrymaria_lacrymabunda_%28Bull.%29_Pat_173183_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lacrymaria_lacrymabunda_(Bull.)_Pat_173183_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Hamilton (ham) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "44101": {
+   "dansk": "Manddraber-mælkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lactarius_turpis_2010_G1.jpg/960px-Lactarius_turpis_2010_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lactarius_turpis_2010_G1.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "George Chernilevsky"
+  },
+  "44368": {
+   "dansk": "Gulfnugget parasolhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Lepiota_magnispora_32236348.jpg/960px-Lepiota_magnispora_32236348.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lepiota_magnispora_32236348.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Adam Bryant"
+  },
+  "45233": {
+   "dansk": "Vinter-huesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mycena_tintinabulum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_tintinabulum.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Gerhard Koller (Gerhard)"
+  },
+  "46180": {
+   "dansk": "Blomme-ildporesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Phellinus.pomaceus2.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Phellinus.pomaceus2.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "46228": {
+   "dansk": "Højtsiddende skælhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Pholiota_aurivella_56647.jpg/960px-Pholiota_aurivella_56647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pholiota_aurivella_56647.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "I. G. Safonov (IGSafonov)"
+  },
+  "47261": {
+   "dansk": "Glat naftalinskind",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Radulomyces_confluens_a2_%281%29.JPG/960px-Radulomyces_confluens_a2_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Radulomyces_confluens_a2_(1).JPG",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "47602": {
+   "dansk": "Birke-skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2010-08-11_Russula_claroflava_Grove._ss._Melz%2C_%26_Zv.%2C_J._Schff_98988.jpg/960px-2010-08-11_Russula_claroflava_Grove._ss._Melz%2C_%26_Zv.%2C_J._Schff_98988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-08-11_Russula_claroflava_Grove._ss._Melz,_%26_Zv.,_J._Schff_98988.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Ron Pastorino (Ronpast) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "60797": {
+   "dansk": "Gran-silkehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Leucoagaricus_nympharum1.jpg/960px-Leucoagaricus_nympharum1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Leucoagaricus_nympharum1.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "kupferglucke"
+  },
+  "60819": {
+   "dansk": "Ægte rabarberhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chlorophyllum_rhacodes_LC0093.jpg/960px-Chlorophyllum_rhacodes_LC0093.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chlorophyllum_rhacodes_LC0093.jpg",
+   "licens": "CC BY-SA 2.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "60821": {
+   "dansk": "Mahognisporet netbladhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Paxillus_obscurisporus_%2835978017564%29.jpg/960px-Paxillus_obscurisporus_%2835978017564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Paxillus_obscurisporus_(35978017564).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Lukas from London, England"
+  },
+  "60827": {
+   "dansk": "Bævrende åresvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Merulius_tremellosus_%288241223536%29.jpg/960px-Merulius_tremellosus_%288241223536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Merulius_tremellosus_(8241223536).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Tatiana Bulyonkova from Novosibirsk, Russia"
+  },
+  "60852": {
+   "dansk": "Almindelig hyldehinde",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Hyphodontia_sambuci_Eglinton.JPG/960px-Hyphodontia_sambuci_Eglinton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hyphodontia_sambuci_Eglinton.JPG",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Rosser1954 Roger Griffith"
+  },
+  "60902": {
+   "dansk": "Bleg hekseringshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Lepista_personata.JPG/960px-Lepista_personata.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lepista_personata.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Paffka"
+  },
+  "60939": {
+   "dansk": "Gummihat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2012-10-16_Sarcomyxa_serotina_%28Pers.%29_P._Karst_272414.jpg/960px-2012-10-16_Sarcomyxa_serotina_%28Pers.%29_P._Karst_272414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2012-10-16_Sarcomyxa_serotina_(Pers.)_P._Karst_272414.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Dave W (Dave W) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "61124": {
+   "dansk": "Tørve-lavhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lichenomphalia_umbellifera_-_Lindsey_1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lichenomphalia_umbellifera_-_Lindsey_1a.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "James Lindsey"
+  },
+  "61146": {
+   "dansk": "Køllestokket keglehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Conocybe_apala_Oakland.jpg/960px-Conocybe_apala_Oakland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Conocybe_apala_Oakland.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "61168": {
+   "dansk": "Køllefod",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2010-10-08_Ampulloclitocybe_clavipes_cropped.jpg/960px-2010-10-08_Ampulloclitocybe_clavipes_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-10-08_Ampulloclitocybe_clavipes_cropped.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Herbert Baker (Herbert Baker) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "61195": {
+   "dansk": "Kantarel-vokshat i bred forstand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Hygrocybe_lepida_%28%3DHygrocybe_cantharellus%29_%2830060034692%29.jpg/960px-Hygrocybe_lepida_%28%3DHygrocybe_cantharellus%29_%2830060034692%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrocybe_lepida_(%3DHygrocybe_cantharellus)_(30060034692).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Lukas from London, England"
+  },
+  "61207": {
+   "dansk": "Glimmer-blækhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Coprinellus_micaceus_Glimmer-Tintling.jpg/960px-Coprinellus_micaceus_Glimmer-Tintling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Coprinellus_micaceus_Glimmer-Tintling.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "61228": {
+   "dansk": "Bredsået blækhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Coprinellus_disseminatus_group.jpg/960px-Coprinellus_disseminatus_group.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Coprinellus_disseminatus_group.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "61235": {
+   "dansk": "Almindelig blækhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coprinopsis_atramentaria_3_-_Lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Coprinopsis_atramentaria_3_-_Lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "61239": {
+   "dansk": "Dunstokket blækhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Hasenpfoten.jpg/960px-Hasenpfoten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hasenpfoten.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Lebrac"
+  },
+  "61245": {
+   "dansk": "Skade-blækhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Coprinopsis_picacea_2024_G1.jpg/960px-Coprinopsis_picacea_2024_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_2024_G1.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "George Chernilevsky"
+  },
+  "61329": {
+   "dansk": "Lille løghat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Mycetinis_scorodonius_334947.jpg/960px-Mycetinis_scorodonius_334947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycetinis_scorodonius_334947.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Christine Braaten (wintersbefore)"
+  },
+  "61351": {
+   "dansk": "Cinnober-vokshat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Hygrocybe_coccinea_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrocybe_coccinea_(1).jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Frank Gardiner aka Zonda Grattus"
+  },
+  "61471": {
+   "dansk": "Rustrød skælrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Leccinum_aurantiacum.jpg/960px-Leccinum_aurantiacum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Leccinum_aurantiacum.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Hans Hillewaert"
+  },
+  "63478": {
+   "dansk": "Grøn fluesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_phalloides_1.JPG/960px-Amanita_phalloides_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Amanita_phalloides_1.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Archenzo"
+  },
+  "63479": {
+   "dansk": "Rødmende fluesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Amanita_rubescens.JPG/960px-Amanita_rubescens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Amanita_rubescens.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "No machine-readable author provided. Archenzo assumed (based on copyright claims)."
+  },
+  "63482": {
+   "dansk": "Tåge-tragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Nevelzwam_%28nebularis%29_tussen_afgevallen_beukenblad_%28d.j.b.%29_01.jpg/960px-Nevelzwam_%28nebularis%29_tussen_afgevallen_beukenblad_%28d.j.b.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Nevelzwam_(nebularis)_tussen_afgevallen_beukenblad_(d.j.b.)_01.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Dominicus Johannes Bergsma"
+  },
+  "63483": {
+   "dansk": "Anis-tragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Clitocybe-odora.jpg/960px-Clitocybe-odora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Clitocybe-odora.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Holger Krisp"
+  },
+  "63570": {
+   "dansk": "Gul fløjlsfod",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2009-11-19_Flammulina_velutipes_agg_biolib.cz_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:2009-11-19_Flammulina_velutipes_agg_biolib.cz_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "2009-11-19_Flammulina_sp_biolib.cz.jpg: František ŠARŽÍK derivative work: Ak ccm"
+  },
+  "63575": {
+   "dansk": "Almindelig rabarberhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chlorophyllum_rhacodes_LC0093.jpg/960px-Chlorophyllum_rhacodes_LC0093.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chlorophyllum_rhacodes_LC0093.jpg",
+   "licens": "CC BY-SA 2.0 de",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "fotograf": "Jörg Hempel"
+  },
+  "63639": {
+   "dansk": "Kegle-vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hygrocybe_conica_%282005_11_07%29_1.jpg/960px-Hygrocybe_conica_%282005_11_07%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrocybe_conica_(2005_11_07)_1.jpg",
+   "licens": "CC BY 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.5",
+   "fotograf": "No machine-readable author provided. Taka assumed (based on copyright claims)."
+  },
+  "63641": {
+   "dansk": "Mønje-vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hygrocybe_miniata_-_Ferndale_Park.jpg/960px-Hygrocybe_miniata_-_Ferndale_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrocybe_miniata_-_Ferndale_Park.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "JJ Harrison (https://www.jjharrison.com.au/)"
+  },
+  "63646": {
+   "dansk": "Frost-sneglehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hygrophorus_hypothejus_2.jpg/960px-Hygrophorus_hypothejus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrophorus_hypothejus_2.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Ripa"
+  },
+  "63728": {
+   "dansk": "Savbladet skørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Russula_fragilis.jpg/960px-Russula_fragilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Russula_fragilis.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Zonda Grattus"
+  },
+  "63734": {
+   "dansk": "Hulstokket slimrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Boletus_cavipes.jpg/960px-Boletus_cavipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Boletus_cavipes.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Dezidor"
+  },
+  "63736": {
+   "dansk": "Lærke-slimrørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Suill.grev.jpg/960px-Suill.grev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Suill.grev.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "User:Luridiformis"
+  },
+  "63869": {
+   "dansk": "Blåligrød nøglekugle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Illosporiopsis_christiansenii_%28Hypocreales%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/960px-Illosporiopsis_christiansenii_%28Hypocreales%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Illosporiopsis_christiansenii_(Hypocreales),_Elst_(Gld),_the_Netherlands.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "This image is created by user B. Schoenmakers at Waarneming.nl, a source of nature observations in the Netherlands."
+  },
+  "64062": {
+   "dansk": "Pudret huesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mycena_adscendens_9244.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_adscendens_9244.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "John Kirkpatrick"
+  },
+  "64423": {
+   "dansk": "Ellerakle-knoldskive",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2006-03-14_Ciboria_amentacea.jpg/960px-2006-03-14_Ciboria_amentacea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2006-03-14_Ciboria_amentacea.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Andreas Kunze"
+  },
+  "65745": {
+   "dansk": "Netstokket indigorørhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg/960px-2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Steinpilz at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "65830": {
+   "dansk": "Kugleknoldet fluesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Amanita_sp._2010-10-31.jpg/960px-Amanita_sp._2010-10-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Amanita_sp._2010-10-31.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "The High Fin Sperm Whale"
+  },
+  "67297": {
+   "dansk": "Høj posesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Volvopluteus_SoCal.jpg/960px-Volvopluteus_SoCal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Volvopluteus_SoCal.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Alan Rockefeller"
+  },
+  "67347": {
+   "dansk": "Slimet vokshat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Hygrocybe_irrigata.jpg/960px-Hygrocybe_irrigata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hygrocybe_irrigata.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Stu's Images"
+  },
+  "67407": {
+   "dansk": "Brunstænket heksetragthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Roodbruine_schijnridderzwammen_%28Lepista_flaccida%29._22-01-2021_%28d.j.b.%29_01.jpg/960px-Roodbruine_schijnridderzwammen_%28Lepista_flaccida%29._22-01-2021_%28d.j.b.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Roodbruine_schijnridderzwammen_(Lepista_flaccida)._22-01-2021_(d.j.b.)_01.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Dominicus Johannes Bergsma"
+  },
+  "67477": {
+   "dansk": "Vinter-stilkporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Polyporus_brumalis_G3.3.jpg/960px-Polyporus_brumalis_G3.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Polyporus_brumalis_G3.3.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jerzy Opioła"
+  },
+  "67481": {
+   "dansk": "Kastaniebrun stilkporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Polyporus_badius_19482.jpg/960px-Polyporus_badius_19482.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Polyporus_badius_19482.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dan Molter"
+  },
+  "67488": {
+   "dansk": "Skællet stilkporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Polyporus_squamosus_Molter.jpg/960px-Polyporus_squamosus_Molter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Polyporus_squamosus_Molter.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dan Molter"
+  },
+  "67489": {
+   "dansk": "Foranderlig stilkporesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Polyporus_squamosus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Polyporus_squamosus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "67507": {
+   "dansk": "Almindelig bævretop",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Exidia_nigricans_%2826110734145%29.jpg/960px-Exidia_nigricans_%2826110734145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Exidia_nigricans_(26110734145).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Björn S..."
+  },
+  "67967": {
+   "dansk": "Gulhvid huesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mycena_spec._-_Lindsey_6a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Mycena_spec._-_Lindsey_6a.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "68557": {
+   "dansk": "Slank snyltekølle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tolypocladium_Ophioglossoides_2024.jpg/960px-Tolypocladium_Ophioglossoides_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tolypocladium_Ophioglossoides_2024.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Shmarshall"
+  },
+  "68856": {
+   "dansk": "Kæmpe-bævresvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Tremella_foliacea_72635_MushroomObserver_cropped.jpg/960px-Tremella_foliacea_72635_MushroomObserver_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tremella_foliacea_72635_MushroomObserver_cropped.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Dan Molter (shroomydan) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "69065": {
+   "dansk": "Kvist-huesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Phloeomana_speirea_183058.jpg/960px-Phloeomana_speirea_183058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phloeomana_speirea_183058.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Sava Krstic (sava)"
+  },
+  "69140": {
+   "dansk": "Pære-støvbold",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lycoperdon_pyriforme_Sasata_scale.jpg/960px-Lycoperdon_pyriforme_Sasata_scale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lycoperdon_pyriforme_Sasata_scale.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Sasata"
+  },
+  "69552": {
+   "dansk": "Bitter kødporesvamp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Postia.stiptica.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Postia.stiptica.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "70090": {
+   "dansk": "Candolles mørkhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Psathyrella_candolleana_060801wa.jpg/960px-Psathyrella_candolleana_060801wa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Psathyrella_candolleana_060801wa.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "User:Strobilomyces"
+  },
+  "70098": {
+   "dansk": "Knippe-mørkhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Britzelmayria_multipedata.jpg/960px-Britzelmayria_multipedata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Britzelmayria_multipedata.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "rainerburkard"
+  },
+  "70189": {
+   "dansk": "Birkeporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Piptoporus_betulinus_55.jpg/960px-Piptoporus_betulinus_55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Piptoporus_betulinus_55.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Captainpixel"
+  },
+  "70864": {
+   "dansk": "Citrongul vokspig",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Sarcodontia_uda_310568712.jpg/960px-Sarcodontia_uda_310568712.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sarcodontia_uda_310568712.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Patrick Jackson"
+  },
+  "70935": {
+   "dansk": "Knippe-fladhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gymnopus.confluens.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Gymnopus.confluens.-.lindsey.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "James Lindsey"
+  },
+  "70937": {
+   "dansk": "Bestøvlet fladhat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Collybia_peronata_20070812wb.JPG/960px-Collybia_peronata_20070812wb.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Collybia_peronata_20070812wb.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Strobilomyces"
+  },
+  "71499": {
+   "dansk": "Brunrød slimslør",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chroogomphus_rutilus_Bryonia_orig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Chroogomphus_rutilus_Bryonia_orig.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Alberto Vasquez"
+  },
+  "72525": {
+   "dansk": "Almindelig trævlhat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ino.geo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Ino.geo.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Luridiformis at en.wikipedia"
+  },
+  "72914": {
+   "dansk": "Række-hovporesvamp",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Antrodia_serialis_37619.jpg/960px-Antrodia_serialis_37619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Antrodia_serialis_37619.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "This image was created by user Gerhard Koller (Gerhard) at Mushroom Observer, a source for mycological images.You can contact this user here."
+  },
+  "73774": {
+   "dansk": "Eng-nonnehat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dermoloma_cuneifolium_73323.jpg/960px-Dermoloma_cuneifolium_73323.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Dermoloma_cuneifolium_73323.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Irene Andersson (irenea)"
+  },
+  "74166": {
+   "dansk": "Stor ametysthat",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lacc.lacc.jpg/960px-Lacc.lacc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lacc.lacc.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Zonda Grattus, aka Luridiformis"
+  },
+  "74809": {
+   "dansk": "Almindelig bævretop",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Exidia_nigricans_%2826110734145%29.jpg/960px-Exidia_nigricans_%2826110734145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Exidia_nigricans_(26110734145).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Björn S..."
+  }
+ }
+}
