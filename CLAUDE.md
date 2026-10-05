@@ -53,7 +53,7 @@ python -m http.server 8000
 ## Udgivelse (GitHub Pages)
 - Repo: https://github.com/Ekkodrom/svampe-kalender (offentligt, branch `main`, rodmappe)
 - Live: https://ekkodrom.github.io/svampe-kalender/
-- Push til `main` udgiver automatisk. GitHub CLI: `E:Program FilesGitHub CLIgh.exe` (konto: Ekkodrom).
+- Push til `main` udgiver automatisk. GitHub CLI: `E:\Program Files\GitHub CLI\gh.exe` (konto: Ekkodrom).
 
 ## Kode
 - Datoaritmetik: brug `plusDage()` (kalenderdage), aldrig `getTime() + 24t` – det fejler ved sommertid.
